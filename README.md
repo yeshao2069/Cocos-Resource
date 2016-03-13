@@ -1,155 +1,47 @@
-# Cocos2d-x 资料大全
+# Cocos2d-x 资料大全（全版本）
 ---
-##Part1: 官方安装包
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-### Cocos FrameWork 下载
-| No.| 文件名| 下载链接 |
-| ------- |:-------------:| :----------------------------------:|
-|1|CocosFrameworkSamples_v3.9.zip|[http://www.cocos2d-x.org/filedown/CocosFrameworkSamples_v3.9.zip](http://www.cocos2d-x.org/filedown/CocosFrameworkSamples_v3.9.zip)|
-|2|CocosFrameworkSamples_v3.8.zip|[http://www.cocos2d-x.org/filedown/CocosFrameworkSamples_v3.8.zip](http://www.cocos2d-x.org/filedown/CocosFrameworkSamples_v3.8.zip)|
-|3|CocosFramework-v3.7.pkg|[http://www.cocos2d-x.org/filedown/CocosFramework-v3.7.pkg](http://www.cocos2d-x.org/filedown/CocosFramework-v3.7.pkg)|
-|4|CocosFramework-v3.7.exe|[http://www.cocos2d-x.org/filedown/CocosFramework-v3.7.exe](http://www.cocos2d-x.org/filedown/CocosFramework-v3.7.exe)|
-|5|CocosFramework-v3.6.pkg|[http://www.cocos2d-x.org/filedown/CocosFramework-v3.6.pkg](http://www.cocos2d-x.org/filedown/CocosFramework-v3.6.pkg)|
-|6|CocosFramework-v3.6.exe|[http://www.cocos2d-x.org/filedown/CocosFramework-v3.6.exe](http://www.cocos2d-x.org/filedown/CocosFramework-v3.6.exe)|
-|7|CocosFramework-v3.5.pkg|[http://www.cocos2d-x.org/filedown/CocosFramework-v3.5.pkg](http://www.cocos2d-x.org/filedown/CocosFramework-v3.5.pkg)|
-|8|CocosFramework-v3.5.exe|[http://www.cocos2d-x.org/filedown/CocosFramework-v3.5.exe](http://www.cocos2d-x.org/filedown/CocosFramework-v3.5.exe)|
-|9|CocosFramework-v3.4rc1-windows.exe|[http://www.cocos2d-x.org/filedown/CocosFramework-v3.4rc1-windows.exe](http://www.cocos2d-x.org/filedown/CocosFramework-v3.4rc1-windows.exe)|
-|10|CocosFramework-v3.4rc1-mac.pkg|[http://www.cocos2d-x.org/filedown/CocosFramework-v3.4rc1-mac.pkg](http://www.cocos2d-x.org/filedown/CocosFramework-v3.4rc1-mac.pkg)|
-|11|CocosFramework-v3.4.2-windows.exe|[http://www.cocos2d-x.org/filedown/CocosFramework-v3.4.2-windows.exe](http://www.cocos2d-x.org/filedown/CocosFramework-v3.4.2-windows.exe)|
-|12|CocosFramework-v3.4.2-mac.pkg|[http://www.cocos2d-x.org/filedown/CocosFramework-v3.4.2-mac.pkg](http://www.cocos2d-x.org/filedown/CocosFramework-v3.4.2-mac.pkg)|
-|13|CocosFramework-v3.4-windows.exe|[http://www.cocos2d-x.org/filedown/CocosFramework-v3.4-windows.exe](http://www.cocos2d-x.org/filedown/CocosFramework-v3.4-windows.exe)|
-|14|CocosFramework-v3.4-mac.pkg|[http://www.cocos2d-x.org/filedown/CocosFramework-v3.4-mac.pkg](http://www.cocos2d-x.org/filedown/CocosFramework-v3.4-mac.pkg)|
-|15|CocosFramework-V3.9-Windows.exe|[http://www.cocos2d-x.org/filedown/CocosFramework-V3.9-Windows.exe](http://www.cocos2d-x.org/filedown/CocosFramework-V3.9-Windows.exe)|
-|16|CocosFramework-V3.9-Mac.pkg|[http://www.cocos2d-x.org/filedown/CocosFramework-V3.9-Mac.pkg](http://www.cocos2d-x.org/filedown/CocosFramework-V3.9-Mac.pkg)|
-|17|CocosFramework-V3.9-Mac.pkg|[http://www.cocos2d-x.org/filedown/CocosFramework-V3.9-Mac.pkg](http://www.cocos2d-x.org/filedown/CocosFramework-V3.9-Mac.pkg)|
-|18|CocosFramework-V3.8.1-Windows.exe|[http://www.cocos2d-x.org/filedown/CocosFramework-V3.8.1-Windows.exe](http://www.cocos2d-x.org/filedown/CocosFramework-V3.8.1-Windows.exe)|
-|19|CocosFramework-V3.8.1-Mac.pkg|[http://www.cocos2d-x.org/filedown/CocosFramework-V3.8.1-Mac.pkg](http://www.cocos2d-x.org/filedown/CocosFramework-V3.8.1-Mac.pkg)|
-|20|CocosFramework-V3.8-Windows.exe|[http://www.cocos2d-x.org/filedown/CocosFramework-V3.8-Windows.exe](http://www.cocos2d-x.org/filedown/CocosFramework-V3.8-Windows.exe)|
-|21|CocosFramework-V3.8-Mac.pkg|[http://www.cocos2d-x.org/filedown/CocosFramework-V3.8-Mac.pkg](http://www.cocos2d-x.org/filedown/CocosFramework-V3.8-Mac.pkg)|
-|22|CocosFramework-V3.7.1-Windows.exe|[http://www.cocos2d-x.org/filedown/CocosFramework-V3.7.1-Windows.exe](http://www.cocos2d-x.org/filedown/CocosFramework-V3.7.1-Windows.exe)|
-### Cocos Studio 下载
-| No.| 文件名| 下载链接 |
-| ------- |:-------------:| :----------------------------------:|
-|1|CocosStudio_v1.6.0.0_store.exe|[http://www.cocos2d-x.org/filedown/CocosStudio_v1.6.0.0_store.exe](http://www.cocos2d-x.org/filedown/CocosStudio_v1.6.0.0_store.exe)|
-|2|CocosStudio_v1.6.0.0.exe|[http://www.cocos2d-x.org/filedown/CocosStudio_v1.6.0.0.exe](http://www.cocos2d-x.org/filedown/CocosStudio_v1.6.0.0.exe)|
-|3|CocosStudio_v1.5.0.1.exe|[http://www.cocos2d-x.org/filedown/CocosStudio_v1.5.0.1.exe](http://www.cocos2d-x.org/filedown/CocosStudio_v1.5.0.1.exe)|
-|4|CocosStudio_v1.5.0.0.exe|[http://www.cocos2d-x.org/filedown/CocosStudio_v1.5.0.0.exe](http://www.cocos2d-x.org/filedown/CocosStudio_v1.5.0.0.exe)|
-|5|CocosStudio_v1.0.0.0_Beta.dmg|[http://www.cocos2d-x.org/filedown/CocosStudio_v1.0.0.0_Beta.dmg](http://www.cocos2d-x.org/filedown/CocosStudio_v1.0.0.0_Beta.dmg)|
-|6|CocosStudioForWin_v2.0.0.0_Alpha.exe|[http://www.cocos2d-x.org/filedown/CocosStudioForWin_v2.0.0.0_Alpha.exe](http://www.cocos2d-x.org/filedown/CocosStudioForWin_v2.0.0.0_Alpha.exe)|
-|7|CocosStudioForWin-v2.1.exe|[http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.1.exe](http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.1.exe)|
-|8|CocosStudioForWin-v2.1.exe|[http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.1.exe](http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.1.exe)|
-|9|CocosStudioForWin-v2.1-Update.exe|[http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.1-Update.exe](http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.1-Update.exe)|
-|10|CocosStudioForWin-v2.1-Beta.exe|[http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.1-Beta.exe](http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.1-Beta.exe)|
-|11|CocosStudioForWin-v2.0.6-Update.exe|[http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.0.6-Update.exe](http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.0.6-Update.exe)|
-|12|CocosStudioForWin-v2.0.5.exe|[http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.0.5.exe](http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.0.5.exe)|
-|13|CocosStudioForWin-v2.0.5-Update.exe|[http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.0.5-Update.exe](http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.0.5-Update.exe)|
-|14|CocosStudioForWin-v2.0.2.exe|[http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.0.2.exe](http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.0.2.exe)|
-|15|CocosStudioForWin-v2.0.2-Update.exe|[http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.0.2-Update.exe](http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.0.2-Update.exe)|
-|16|CocosStudioForWin-v2.0.0.0-Beta0.exe|[http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.0.0.0-Beta0.exe](http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.0.0.0-Beta0.exe)|
-|17|CocosStudioForWin-2.0.0.0-Beta0.exe|[http://www.cocos2d-x.org/filedown/CocosStudioForWin-2.0.0.0-Beta0.exe](http://www.cocos2d-x.org/filedown/CocosStudioForWin-2.0.0.0-Beta0.exe)|
-|18|CocosStudioForMac_v2.0.0.0_Alpha.dmg|[http://www.cocos2d-x.org/filedown/CocosStudioForMac_v2.0.0.0_Alpha.dmg](http://www.cocos2d-x.org/filedown/CocosStudioForMac_v2.0.0.0_Alpha.dmg)|
-|19|CocosStudioForMac_2.0.0.0_Alpha.dmg|[http://www.cocos2d-x.org/filedown/CocosStudioForMac_2.0.0.0_Alpha.dmg](http://www.cocos2d-x.org/filedown/CocosStudioForMac_2.0.0.0_Alpha.dmg)|
-|20|CocosStudioForMac-v2.1.dmg|[http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.1.dmg](http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.1.dmg)|
-|21|CocosStudioForMac-v2.1-Update.pkg|[http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.1-Update.pkg](http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.1-Update.pkg)|
-|22|CocosStudioForMac-v2.1-Beta.dmg|[http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.1-Beta.dmg](http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.1-Beta.dmg)|
-|23|CocosStudioForMac-v2.0.6.dmg|[http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.0.6.dmg](http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.0.6.dmg)|
-|24|CocosStudioForMac-v2.0.6-Update.pkg|[http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.0.6-Update.pkg](http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.0.6-Update.pkg)|
-|25|CocosStudioForMac-v2.0.5.dmg|[http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.0.5.dmg](http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.0.5.dmg)|
-|26|CocosStudioForMac-v2.0.5-Update.pkg|[http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.0.5-Update.pkg](http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.0.5-Update.pkg)|
-|27|CocosStudioForMac-v2.0.2.dmg|[http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.0.2.dmg](http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.0.2.dmg)|
-|28|CocosStudioForMac-v2.0.2-Update.pkg|[http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.0.2-Update.pkg](http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.0.2-Update.pkg)|
-|29|CocosStudioForMac-v2.0.0.0-Beta0.dmg|[http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.0.0.0-Beta0.dmg](http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.0.0.0-Beta0.dmg)|
-|30|CocosStudioForMac-2.0.0.0_Alpha.dmg|[http://www.cocos2d-x.org/filedown/CocosStudioForMac-2.0.0.0_Alpha.dmg](http://www.cocos2d-x.org/filedown/CocosStudioForMac-2.0.0.0_Alpha.dmg)|
-|31|CocosStudioForMac-2.0.0.0-Beta0.dmg|[http://www.cocos2d-x.org/filedown/CocosStudioForMac-2.0.0.0-Beta0.dmg](http://www.cocos2d-x.org/filedown/CocosStudioForMac-2.0.0.0-Beta0.dmg)|
-|32|CocosStudioForMac-2.0.0.0-Alpha.dmg|[http://www.cocos2d-x.org/filedown/CocosStudioForMac-2.0.0.0-Alpha.dmg](http://www.cocos2d-x.org/filedown/CocosStudioForMac-2.0.0.0-Alpha.dmg)|
-|33|CocoStudio_v1.4.0.1.exe|[http://www.cocos2d-x.org/filedown/CocoStudio_v1.4.0.1.exe](http://www.cocos2d-x.org/filedown/CocoStudio_v1.4.0.1.exe)|
-|34|CocoStudio_v1.0.0.0_Alpha1.dmg|[http://www.cocos2d-x.org/filedown/CocoStudio_v1.0.0.0_Alpha1.dmg](http://www.cocos2d-x.org/filedown/CocoStudio_v1.0.0.0_Alpha1.dmg)|
-|35|CocoStudio(2DX3.0)_v1.4.0.1.exe|[http://www.cocos2d-x.org/filedown/CocoStudio(2DX3.0)_v1.4.0.1.exe](http://www.cocos2d-x.org/filedown/CocoStudio(2DX3.0)_v1.4.0.1.exe)|
-|36|CocoStudio(2DX2.2.3)_v1.4.0.1.exe|[http://www.cocos2d-x.org/filedown/CocoStudio(2DX2.2.3)_v1.4.0.1.exe](http://www.cocos2d-x.org/filedown/CocoStudio(2DX2.2.3)_v1.4.0.1.exe)|
-### Cocos IDE 下载
-| No.| 文件名| 下载链接 |
-| ------- |:-------------:| :----------------------------------:|
-|1|cocos-intellij-plugin-2.0.0-beta.zip|[http://www.cocos2d-x.org/filedown/cocos-intellij-plugin-2.0.0-beta.zip](http://www.cocos2d-x.org/filedown/cocos-intellij-plugin-2.0.0-beta.zip)|
-|2|cocos-code-ide-win64-1.2.0.exe|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.2.0.exe](http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.2.0.exe)|
-|3|cocos-code-ide-win64-1.1.0.exe|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.1.0.exe](http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.1.0.exe)|
-|4|cocos-code-ide-win64-1.0.2.exe|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.2.exe](http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.2.exe)|
-|5|cocos-code-ide-win64-1.0.2.exe|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.2.exe](http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.2.exe)|
-|6|cocos-code-ide-win64-1.0.2-beta.zip|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.2-beta.zip](http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.2-beta.zip)|
-|7|cocos-code-ide-win64-1.0.1.exe|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.1.exe](http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.1.exe)|
-|8|cocos-code-ide-win64-1.0.0-rc2.zip|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.0-rc2.zip](http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.0-rc2.zip)|
-|9|cocos-code-ide-win64-1.0.0-rc2.exe|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.0-rc2.exe](http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.0-rc2.exe)|
-|10|cocos-code-ide-win64-1.0.0-rc1.zip|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.0-rc1.zip](http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.0-rc1.zip)|
-|11|cocos-code-ide-win64-1.0.0-rc0.zip|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.0-rc0.zip](http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.0-rc0.zip)|
-|12|cocos-code-ide-win64-1.0.0-rc0.exe|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.0-rc0.exe](http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.0-rc0.exe)|
-|13|cocos-code-ide-win64-1.0.0-final.zip|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.0-final.zip](http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.0-final.zip)|
-|14|cocos-code-ide-win64-1.0.0-final.exe|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.0-final.exe](http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.0-final.exe)|
-|15|cocos-code-ide-win64-1.0.0-beta-zip-cncdn|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.0-beta-zip-cncdn](http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.0-beta-zip-cncdn)|
-|16|cocos-code-ide-win32-1.2.0.exe|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.2.0.exe](http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.2.0.exe)|
-|17|cocos-code-ide-win32-1.1.0.exe|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.1.0.exe](http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.1.0.exe)|
-|18|cocos-code-ide-win32-1.0.2.exe|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.2.exe](http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.2.exe)|
-|19|cocos-code-ide-win32-1.0.2-beta.zip|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.2-beta.zip](http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.2-beta.zip)|
-|20|cocos-code-ide-win32-1.0.1.exe|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.1.exe](http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.1.exe)|
-|21|cocos-code-ide-win32-1.0.0-rc2.zip|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.0-rc2.zip](http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.0-rc2.zip)|
-|22|cocos-code-ide-win32-1.0.0-rc2.exe|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.0-rc2.exe](http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.0-rc2.exe)|
-|23|cocos-code-ide-win32-1.0.0-rc1.zip|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.0-rc1.zip](http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.0-rc1.zip)|
-|24|cocos-code-ide-win32-1.0.0-rc1.exe|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.0-rc1.exe](http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.0-rc1.exe)|
-|25|cocos-code-ide-win32-1.0.0-rc0.zip|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.0-rc0.zip](http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.0-rc0.zip)|
-|26|cocos-code-ide-win32-1.0.0-rc0.exe|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.0-rc0.exe](http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.0-rc0.exe)|
-|27|cocos-code-ide-win32-1.0.0-final.zip|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.0-final.zip](http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.0-final.zip)|
-|28|cocos-code-ide-win32-1.0.0-final.exe|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.0-final.exe](http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.0-final.exe)|
-|29|cocos-code-ide-win32-1.0.0-beta-zip-cncdn|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.0-beta-zip-cncdn](http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.0-beta-zip-cncdn)|
-|30|cocos-code-ide-mac64-1.2.0.dmg|[http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.2.0.dmg](http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.2.0.dmg)|
-|31|cocos-code-ide-mac64-1.1.0.dmg|[http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.1.0.dmg](http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.1.0.dmg)|
-|32|cocos-code-ide-mac64-1.0.2.dmg|[http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.0.2.dmg](http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.0.2.dmg)|
-|33|cocos-code-ide-mac64-1.0.2-beta.zip|[http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.0.2-beta.zip](http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.0.2-beta.zip)|
-|34|cocos-code-ide-mac64-1.0.1.dmg|[http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.0.1.dmg](http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.0.1.dmg)|
-|35|cocos-code-ide-mac64-1.0.0-rc2.dmg|[http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.0.0-rc2.dmg](http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.0.0-rc2.dmg)|
-|36|cocos-code-ide-mac64-1.0.0-rc1.dmg|[http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.0.0-rc1.dmg](http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.0.0-rc1.dmg)|
-|37|cocos-code-ide-mac64-1.0.0-rc0.zip|[http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.0.0-rc0.zip](http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.0.0-rc0.zip)|
-|38|cocos-code-ide-mac64-1.0.0-rc0.dmg|[http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.0.0-rc0.dmg](http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.0.0-rc0.dmg)|
-|39|cocos-code-ide-mac64-1.0.0-final.dmg|[http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.0.0-final.dmg](http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.0.0-final.dmg)|
-|40|cocos-code-ide-mac64-1.0.0-beta-zip-cncdn|[http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.0.0-beta-zip-cncdn](http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.0.0-beta-zip-cncdn)|
-|41|cocos-code-ide-2.0.0-beta.exe|[http://www.cocos2d-x.org/filedown/cocos-code-ide-2.0.0-beta.exe](http://www.cocos2d-x.org/filedown/cocos-code-ide-2.0.0-beta.exe)|
-|42|cocos-code-ide-2.0.0-beta.dmg|[http://www.cocos2d-x.org/filedown/cocos-code-ide-2.0.0-beta.dmg](http://www.cocos2d-x.org/filedown/cocos-code-ide-2.0.0-beta.dmg)|
-|43|cocos-code-ide-1.1.0-update.zip|[http://www.cocos2d-x.org/filedown/cocos-code-ide-1.1.0-update.zip](http://www.cocos2d-x.org/filedown/cocos-code-ide-1.1.0-update.zip)|
-|44|cocos-code-ide-1.0.2-update.zip|[http://www.cocos2d-x.org/filedown/cocos-code-ide-1.0.2-update.zip](http://www.cocos2d-x.org/filedown/cocos-code-ide-1.0.2-update.zip)|
-### Cocos Simuator 下载
-| No.| 文件名| 下载链接 |
-| ------- |:-------------:| :----------------------------------:|
-|1|CocosSimulatorWin_v1.0.exe|[http://www.cocos2d-x.org/filedown/CocosSimulatorWin_v1.0.exe](http://www.cocos2d-x.org/filedown/CocosSimulatorWin_v1.0.exe)|
-|2|CocosSimulatorMac_v1.0.pkg|[http://www.cocos2d-x.org/filedown/CocosSimulatorMac_v1.0.pkg](http://www.cocos2d-x.org/filedown/CocosSimulatorMac_v1.0.pkg)|
-### Cocos2d-js 引擎下载
-| No.| 文件名| 下载链接 |
-| ------- |:-------------:| :----------------------------------:|
-|1|cocos2d-js-v3.7beta0.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.7beta0.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.7beta0.zip)|
-|2|cocos2d-js-v3.6.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.6.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.6.zip)|
-|3|cocos2d-js-v3.6.1.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.6.1.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.6.1.zip)|
-|4|cocos2d-js-v3.6-beta.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.6-beta.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.6-beta.zip)|
-|5|cocos2d-js-v3.5.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.5.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.5.zip)|
-|6|cocos2d-js-v3.4-beta0.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.4-beta0.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.4-beta0.zip)|
-|7|cocos2d-js-v3.3.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.3.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.3.zip)|
-|8|cocos2d-js-v3.3-rc0.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.3-rc0.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.3-rc0.zip)|
-|9|cocos2d-js-v3.3-beta.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.3-beta.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.3-beta.zip)|
-|10|cocos2d-js-v3.2.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.2.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.2.zip)|
-|11|cocos2d-js-v3.2-rc0.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.2-rc0.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.2-rc0.zip)|
-|12|cocos2d-js-v3.1.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.1.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.1.zip)|
-|13|cocos2d-js-v3.1-beta.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.1-beta.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.1-beta.zip)|
-|14|cocos2d-js-v3.0.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0.zip)|
-|15|cocos2d-js-v3.0-rc3.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-rc3.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-rc3.zip)|
-|16|cocos2d-js-v3.0-rc1.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-rc1.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-rc1.zip)|
-|17|cocos2d-js-v3.0-rc0.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-rc0.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-rc0.zip)|
-|18|cocos2d-js-v3.0-rc0-hotfix.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-rc0-hotfix.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-rc0-hotfix.zip)|
-|19|cocos2d-js-v3.0-pre.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-pre.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-pre.zip)|
-|20|cocos2d-js-v3.0-beta.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-beta.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-beta.zip)|
-|21|cocos2d-js-v3.0-alpha2-zip-cncdn|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-alpha2-zip-cncdn](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-alpha2-zip-cncdn)|
-### Cocos Creator 下载
-| No.| 文件名| 下载链接 |
-| ------- |:-------------:| :----------------------------------:|
-|1|CocosCreator_v0.7.1_win_en|[http://www.cocos2d-x.org/filedown/CocosCreator_v0.7.1_win_en](http://www.cocos2d-x.org/filedown/CocosCreator_v0.7.1_win_en)|
-|2|CocosCreator_v0.7.1_mac_en|[http://www.cocos2d-x.org/filedown/CocosCreator_v0.7.1_mac_en](http://www.cocos2d-x.org/filedown/CocosCreator_v0.7.1_mac_en)|
-|3|CocosCreator_v0.7.0_win.zip|[http://www.cocos2d-x.org/filedown/CocosCreator_v0.7.0_win.zip](http://www.cocos2d-x.org/filedown/CocosCreator_v0.7.0_win.zip)|
-|4|CocosCreator_v0.7.0_mac.zip|[http://www.cocos2d-x.org/filedown/CocosCreator_v0.7.0_mac.zip](http://www.cocos2d-x.org/filedown/CocosCreator_v0.7.0_mac.zip)|
-### Cocos2d-x 引擎下载
+
+- [Cocos 文档相关](#cocos-%E6%96%87%E6%A1%A3%E7%9B%B8%E5%85%B3)
+  - [Cocos2d-x 中英文发布说明](#cocos2d-x-%E4%B8%AD%E8%8B%B1%E6%96%87%E5%8F%91%E5%B8%83%E8%AF%B4%E6%98%8E)
+  - [Cocos2d-x API 手册离线版下载（百度盘）](#cocos2d-x-api-%E6%89%8B%E5%86%8C%E7%A6%BB%E7%BA%BF%E7%89%88%E4%B8%8B%E8%BD%BD%EF%BC%88%E7%99%BE%E5%BA%A6%E7%9B%98%EF%BC%89)
+  - [Cocos2d-x 官方文档](#cocos2d-x-%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3)
+  - [Cocos Creator 官方文档](#cocos-creator-%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3)
+- [Cocos 引擎下载](#cocos-%E5%BC%95%E6%93%8E%E4%B8%8B%E8%BD%BD)
+  - [Cocos2d-x 引擎下载](#cocos2d-x-%E5%BC%95%E6%93%8E%E4%B8%8B%E8%BD%BD)
+  - [Cocos2d-js 引擎下载](#cocos2d-js-%E5%BC%95%E6%93%8E%E4%B8%8B%E8%BD%BD)
+- [Cocos 配套工具下载](#cocos-%E9%85%8D%E5%A5%97%E5%B7%A5%E5%85%B7%E4%B8%8B%E8%BD%BD)
+  - [Cocos 下载](#cocos-%E4%B8%8B%E8%BD%BD)
+  - [Cocos Studio 下载](#cocos-studio-%E4%B8%8B%E8%BD%BD)
+  - [Cocos FrameWork 下载](#cocos-framework-%E4%B8%8B%E8%BD%BD)
+  - [Cocos Simuator 下载](#cocos-simuator-%E4%B8%8B%E8%BD%BD)
+  - [Cocos IDE 下载](#cocos-ide-%E4%B8%8B%E8%BD%BD)
+  - [Cocos Creator 下载](#cocos-creator-%E4%B8%8B%E8%BD%BD)
+- [Cocos 版本关系说明](#cocos-%E7%89%88%E6%9C%AC%E5%85%B3%E7%B3%BB%E8%AF%B4%E6%98%8E)
+  - [Cocos2d-x 与 Cocos Studio 版本对应关系](#cocos2d-x-%E4%B8%8E-cocos-studio-%E7%89%88%E6%9C%AC%E5%AF%B9%E5%BA%94%E5%85%B3%E7%B3%BB)
+  - [Cocos2d-x 与 NDK 版本对应关系](#cocos2d-x-%E4%B8%8E-ndk-%E7%89%88%E6%9C%AC%E5%AF%B9%E5%BA%94%E5%85%B3%E7%B3%BB)
+- [Cocos Android 相关下载](#cocos-android-%E7%9B%B8%E5%85%B3%E4%B8%8B%E8%BD%BD)
+  - [Android NDK 下载（百度盘）](#android-ndk-%E4%B8%8B%E8%BD%BD%EF%BC%88%E7%99%BE%E5%BA%A6%E7%9B%98%EF%BC%89)
+- [Cocos 第三方游戏工具下载](#cocos-%E7%AC%AC%E4%B8%89%E6%96%B9%E6%B8%B8%E6%88%8F%E5%B7%A5%E5%85%B7%E4%B8%8B%E8%BD%BD)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+### Cocos 文档相关
+
+#### Cocos2d-x 中英文发布说明
+
+#### Cocos2d-x API 手册离线版下载（百度盘）
+
+#### Cocos2d-x 官方文档
+
+#### Cocos Creator 官方文档
+
+
+### Cocos 引擎下载
+
+#### Cocos2d-x 引擎下载
 | No.| 文件名| 下载链接 |
 | ------- |:-------------:| :----------------------------------:|
 |1|cocos2d-x-4.0alpha1.zip|[http://www.cocos2d-x.org/filedown/cocos2d-x-4.0alpha1.zip](http://www.cocos2d-x.org/filedown/cocos2d-x-4.0alpha1.zip)|
@@ -198,7 +90,35 @@
 |44|cocos2d-x-2.2.5.zip|[http://www.cocos2d-x.org/filedown/cocos2d-x-2.2.5.zip](http://www.cocos2d-x.org/filedown/cocos2d-x-2.2.5.zip)|
 |45|cocos2d-x-2.2.4.zip|[http://www.cocos2d-x.org/filedown/cocos2d-x-2.2.4.zip](http://www.cocos2d-x.org/filedown/cocos2d-x-2.2.4.zip)|
 |46|cocos2d-x-2.2.4|[http://www.cocos2d-x.org/filedown/cocos2d-x-2.2.4](http://www.cocos2d-x.org/filedown/cocos2d-x-2.2.4)|
-### Cocos 下载
+
+#### Cocos2d-js 引擎下载
+| No.| 文件名| 下载链接 |
+| ------- |:-------------:| :----------------------------------:|
+|1|cocos2d-js-v3.7beta0.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.7beta0.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.7beta0.zip)|
+|2|cocos2d-js-v3.6.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.6.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.6.zip)|
+|3|cocos2d-js-v3.6.1.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.6.1.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.6.1.zip)|
+|4|cocos2d-js-v3.6-beta.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.6-beta.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.6-beta.zip)|
+|5|cocos2d-js-v3.5.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.5.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.5.zip)|
+|6|cocos2d-js-v3.4-beta0.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.4-beta0.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.4-beta0.zip)|
+|7|cocos2d-js-v3.3.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.3.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.3.zip)|
+|8|cocos2d-js-v3.3-rc0.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.3-rc0.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.3-rc0.zip)|
+|9|cocos2d-js-v3.3-beta.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.3-beta.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.3-beta.zip)|
+|10|cocos2d-js-v3.2.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.2.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.2.zip)|
+|11|cocos2d-js-v3.2-rc0.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.2-rc0.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.2-rc0.zip)|
+|12|cocos2d-js-v3.1.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.1.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.1.zip)|
+|13|cocos2d-js-v3.1-beta.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.1-beta.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.1-beta.zip)|
+|14|cocos2d-js-v3.0.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0.zip)|
+|15|cocos2d-js-v3.0-rc3.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-rc3.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-rc3.zip)|
+|16|cocos2d-js-v3.0-rc1.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-rc1.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-rc1.zip)|
+|17|cocos2d-js-v3.0-rc0.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-rc0.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-rc0.zip)|
+|18|cocos2d-js-v3.0-rc0-hotfix.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-rc0-hotfix.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-rc0-hotfix.zip)|
+|19|cocos2d-js-v3.0-pre.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-pre.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-pre.zip)|
+|20|cocos2d-js-v3.0-beta.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-beta.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-beta.zip)|
+|21|cocos2d-js-v3.0-alpha2-zip-cncdn|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-alpha2-zip-cncdn](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-alpha2-zip-cncdn)|
+
+### Cocos 配套工具下载
+
+#### Cocos 下载
 | No.| 文件名| 下载链接 |
 | ------- |:-------------:| :----------------------------------:|
 |1|CocosForWinWithFramework-v2.3.3.exe|[http://www.cocos2d-x.org/filedown/CocosForWinWithFramework-v2.3.3.exe](http://www.cocos2d-x.org/filedown/CocosForWinWithFramework-v2.3.3.exe)|
@@ -283,4 +203,147 @@
 |80|Cocos-v1.0-preview-win64.exe|[http://www.cocos2d-x.org/filedown/Cocos-v1.0-preview-win64.exe](http://www.cocos2d-x.org/filedown/Cocos-v1.0-preview-win64.exe)|
 |81|Cocos-v1.0-preview-win32.exe|[http://www.cocos2d-x.org/filedown/Cocos-v1.0-preview-win32.exe](http://www.cocos2d-x.org/filedown/Cocos-v1.0-preview-win32.exe)|
 |82|Cocos-v1.0-preview-mac64.dmg|[http://www.cocos2d-x.org/filedown/Cocos-v1.0-preview-mac64.dmg](http://www.cocos2d-x.org/filedown/Cocos-v1.0-preview-mac64.dmg)|
+
+#### Cocos Studio 下载
+| No.| 文件名| 下载链接 |
+| ------- |:-------------:| :----------------------------------:|
+|1|CocosStudio_v1.6.0.0_store.exe|[http://www.cocos2d-x.org/filedown/CocosStudio_v1.6.0.0_store.exe](http://www.cocos2d-x.org/filedown/CocosStudio_v1.6.0.0_store.exe)|
+|2|CocosStudio_v1.6.0.0.exe|[http://www.cocos2d-x.org/filedown/CocosStudio_v1.6.0.0.exe](http://www.cocos2d-x.org/filedown/CocosStudio_v1.6.0.0.exe)|
+|3|CocosStudio_v1.5.0.1.exe|[http://www.cocos2d-x.org/filedown/CocosStudio_v1.5.0.1.exe](http://www.cocos2d-x.org/filedown/CocosStudio_v1.5.0.1.exe)|
+|4|CocosStudio_v1.5.0.0.exe|[http://www.cocos2d-x.org/filedown/CocosStudio_v1.5.0.0.exe](http://www.cocos2d-x.org/filedown/CocosStudio_v1.5.0.0.exe)|
+|5|CocosStudio_v1.0.0.0_Beta.dmg|[http://www.cocos2d-x.org/filedown/CocosStudio_v1.0.0.0_Beta.dmg](http://www.cocos2d-x.org/filedown/CocosStudio_v1.0.0.0_Beta.dmg)|
+|6|CocosStudioForWin_v2.0.0.0_Alpha.exe|[http://www.cocos2d-x.org/filedown/CocosStudioForWin_v2.0.0.0_Alpha.exe](http://www.cocos2d-x.org/filedown/CocosStudioForWin_v2.0.0.0_Alpha.exe)|
+|7|CocosStudioForWin-v2.1.exe|[http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.1.exe](http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.1.exe)|
+|8|CocosStudioForWin-v2.1.exe|[http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.1.exe](http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.1.exe)|
+|9|CocosStudioForWin-v2.1-Update.exe|[http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.1-Update.exe](http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.1-Update.exe)|
+|10|CocosStudioForWin-v2.1-Beta.exe|[http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.1-Beta.exe](http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.1-Beta.exe)|
+|11|CocosStudioForWin-v2.0.6-Update.exe|[http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.0.6-Update.exe](http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.0.6-Update.exe)|
+|12|CocosStudioForWin-v2.0.5.exe|[http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.0.5.exe](http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.0.5.exe)|
+|13|CocosStudioForWin-v2.0.5-Update.exe|[http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.0.5-Update.exe](http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.0.5-Update.exe)|
+|14|CocosStudioForWin-v2.0.2.exe|[http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.0.2.exe](http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.0.2.exe)|
+|15|CocosStudioForWin-v2.0.2-Update.exe|[http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.0.2-Update.exe](http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.0.2-Update.exe)|
+|16|CocosStudioForWin-v2.0.0.0-Beta0.exe|[http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.0.0.0-Beta0.exe](http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.0.0.0-Beta0.exe)|
+|17|CocosStudioForWin-2.0.0.0-Beta0.exe|[http://www.cocos2d-x.org/filedown/CocosStudioForWin-2.0.0.0-Beta0.exe](http://www.cocos2d-x.org/filedown/CocosStudioForWin-2.0.0.0-Beta0.exe)|
+|18|CocosStudioForMac_v2.0.0.0_Alpha.dmg|[http://www.cocos2d-x.org/filedown/CocosStudioForMac_v2.0.0.0_Alpha.dmg](http://www.cocos2d-x.org/filedown/CocosStudioForMac_v2.0.0.0_Alpha.dmg)|
+|19|CocosStudioForMac_2.0.0.0_Alpha.dmg|[http://www.cocos2d-x.org/filedown/CocosStudioForMac_2.0.0.0_Alpha.dmg](http://www.cocos2d-x.org/filedown/CocosStudioForMac_2.0.0.0_Alpha.dmg)|
+|20|CocosStudioForMac-v2.1.dmg|[http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.1.dmg](http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.1.dmg)|
+|21|CocosStudioForMac-v2.1-Update.pkg|[http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.1-Update.pkg](http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.1-Update.pkg)|
+|22|CocosStudioForMac-v2.1-Beta.dmg|[http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.1-Beta.dmg](http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.1-Beta.dmg)|
+|23|CocosStudioForMac-v2.0.6.dmg|[http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.0.6.dmg](http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.0.6.dmg)|
+|24|CocosStudioForMac-v2.0.6-Update.pkg|[http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.0.6-Update.pkg](http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.0.6-Update.pkg)|
+|25|CocosStudioForMac-v2.0.5.dmg|[http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.0.5.dmg](http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.0.5.dmg)|
+|26|CocosStudioForMac-v2.0.5-Update.pkg|[http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.0.5-Update.pkg](http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.0.5-Update.pkg)|
+|27|CocosStudioForMac-v2.0.2.dmg|[http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.0.2.dmg](http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.0.2.dmg)|
+|28|CocosStudioForMac-v2.0.2-Update.pkg|[http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.0.2-Update.pkg](http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.0.2-Update.pkg)|
+|29|CocosStudioForMac-v2.0.0.0-Beta0.dmg|[http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.0.0.0-Beta0.dmg](http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.0.0.0-Beta0.dmg)|
+|30|CocosStudioForMac-2.0.0.0_Alpha.dmg|[http://www.cocos2d-x.org/filedown/CocosStudioForMac-2.0.0.0_Alpha.dmg](http://www.cocos2d-x.org/filedown/CocosStudioForMac-2.0.0.0_Alpha.dmg)|
+|31|CocosStudioForMac-2.0.0.0-Beta0.dmg|[http://www.cocos2d-x.org/filedown/CocosStudioForMac-2.0.0.0-Beta0.dmg](http://www.cocos2d-x.org/filedown/CocosStudioForMac-2.0.0.0-Beta0.dmg)|
+|32|CocosStudioForMac-2.0.0.0-Alpha.dmg|[http://www.cocos2d-x.org/filedown/CocosStudioForMac-2.0.0.0-Alpha.dmg](http://www.cocos2d-x.org/filedown/CocosStudioForMac-2.0.0.0-Alpha.dmg)|
+|33|CocoStudio_v1.4.0.1.exe|[http://www.cocos2d-x.org/filedown/CocoStudio_v1.4.0.1.exe](http://www.cocos2d-x.org/filedown/CocoStudio_v1.4.0.1.exe)|
+|34|CocoStudio_v1.0.0.0_Alpha1.dmg|[http://www.cocos2d-x.org/filedown/CocoStudio_v1.0.0.0_Alpha1.dmg](http://www.cocos2d-x.org/filedown/CocoStudio_v1.0.0.0_Alpha1.dmg)|
+|35|CocoStudio(2DX3.0)_v1.4.0.1.exe|[http://www.cocos2d-x.org/filedown/CocoStudio(2DX3.0)_v1.4.0.1.exe](http://www.cocos2d-x.org/filedown/CocoStudio(2DX3.0)_v1.4.0.1.exe)|
+|36|CocoStudio(2DX2.2.3)_v1.4.0.1.exe|[http://www.cocos2d-x.org/filedown/CocoStudio(2DX2.2.3)_v1.4.0.1.exe](http://www.cocos2d-x.org/filedown/CocoStudio(2DX2.2.3)_v1.4.0.1.exe)|
+
+#### Cocos FrameWork 下载
+| No.| 文件名| 下载链接 |
+| ------- |:-------------:| :----------------------------------:|
+|1|CocosFrameworkSamples_v3.9.zip|[http://www.cocos2d-x.org/filedown/CocosFrameworkSamples_v3.9.zip](http://www.cocos2d-x.org/filedown/CocosFrameworkSamples_v3.9.zip)|
+|2|CocosFrameworkSamples_v3.8.zip|[http://www.cocos2d-x.org/filedown/CocosFrameworkSamples_v3.8.zip](http://www.cocos2d-x.org/filedown/CocosFrameworkSamples_v3.8.zip)|
+|3|CocosFramework-v3.7.pkg|[http://www.cocos2d-x.org/filedown/CocosFramework-v3.7.pkg](http://www.cocos2d-x.org/filedown/CocosFramework-v3.7.pkg)|
+|4|CocosFramework-v3.7.exe|[http://www.cocos2d-x.org/filedown/CocosFramework-v3.7.exe](http://www.cocos2d-x.org/filedown/CocosFramework-v3.7.exe)|
+|5|CocosFramework-v3.6.pkg|[http://www.cocos2d-x.org/filedown/CocosFramework-v3.6.pkg](http://www.cocos2d-x.org/filedown/CocosFramework-v3.6.pkg)|
+|6|CocosFramework-v3.6.exe|[http://www.cocos2d-x.org/filedown/CocosFramework-v3.6.exe](http://www.cocos2d-x.org/filedown/CocosFramework-v3.6.exe)|
+|7|CocosFramework-v3.5.pkg|[http://www.cocos2d-x.org/filedown/CocosFramework-v3.5.pkg](http://www.cocos2d-x.org/filedown/CocosFramework-v3.5.pkg)|
+|8|CocosFramework-v3.5.exe|[http://www.cocos2d-x.org/filedown/CocosFramework-v3.5.exe](http://www.cocos2d-x.org/filedown/CocosFramework-v3.5.exe)|
+|9|CocosFramework-v3.4rc1-windows.exe|[http://www.cocos2d-x.org/filedown/CocosFramework-v3.4rc1-windows.exe](http://www.cocos2d-x.org/filedown/CocosFramework-v3.4rc1-windows.exe)|
+|10|CocosFramework-v3.4rc1-mac.pkg|[http://www.cocos2d-x.org/filedown/CocosFramework-v3.4rc1-mac.pkg](http://www.cocos2d-x.org/filedown/CocosFramework-v3.4rc1-mac.pkg)|
+|11|CocosFramework-v3.4.2-windows.exe|[http://www.cocos2d-x.org/filedown/CocosFramework-v3.4.2-windows.exe](http://www.cocos2d-x.org/filedown/CocosFramework-v3.4.2-windows.exe)|
+|12|CocosFramework-v3.4.2-mac.pkg|[http://www.cocos2d-x.org/filedown/CocosFramework-v3.4.2-mac.pkg](http://www.cocos2d-x.org/filedown/CocosFramework-v3.4.2-mac.pkg)|
+|13|CocosFramework-v3.4-windows.exe|[http://www.cocos2d-x.org/filedown/CocosFramework-v3.4-windows.exe](http://www.cocos2d-x.org/filedown/CocosFramework-v3.4-windows.exe)|
+|14|CocosFramework-v3.4-mac.pkg|[http://www.cocos2d-x.org/filedown/CocosFramework-v3.4-mac.pkg](http://www.cocos2d-x.org/filedown/CocosFramework-v3.4-mac.pkg)|
+|15|CocosFramework-V3.9-Windows.exe|[http://www.cocos2d-x.org/filedown/CocosFramework-V3.9-Windows.exe](http://www.cocos2d-x.org/filedown/CocosFramework-V3.9-Windows.exe)|
+|16|CocosFramework-V3.9-Mac.pkg|[http://www.cocos2d-x.org/filedown/CocosFramework-V3.9-Mac.pkg](http://www.cocos2d-x.org/filedown/CocosFramework-V3.9-Mac.pkg)|
+|17|CocosFramework-V3.9-Mac.pkg|[http://www.cocos2d-x.org/filedown/CocosFramework-V3.9-Mac.pkg](http://www.cocos2d-x.org/filedown/CocosFramework-V3.9-Mac.pkg)|
+|18|CocosFramework-V3.8.1-Windows.exe|[http://www.cocos2d-x.org/filedown/CocosFramework-V3.8.1-Windows.exe](http://www.cocos2d-x.org/filedown/CocosFramework-V3.8.1-Windows.exe)|
+|19|CocosFramework-V3.8.1-Mac.pkg|[http://www.cocos2d-x.org/filedown/CocosFramework-V3.8.1-Mac.pkg](http://www.cocos2d-x.org/filedown/CocosFramework-V3.8.1-Mac.pkg)|
+|20|CocosFramework-V3.8-Windows.exe|[http://www.cocos2d-x.org/filedown/CocosFramework-V3.8-Windows.exe](http://www.cocos2d-x.org/filedown/CocosFramework-V3.8-Windows.exe)|
+|21|CocosFramework-V3.8-Mac.pkg|[http://www.cocos2d-x.org/filedown/CocosFramework-V3.8-Mac.pkg](http://www.cocos2d-x.org/filedown/CocosFramework-V3.8-Mac.pkg)|
+|22|CocosFramework-V3.7.1-Windows.exe|[http://www.cocos2d-x.org/filedown/CocosFramework-V3.7.1-Windows.exe](http://www.cocos2d-x.org/filedown/CocosFramework-V3.7.1-Windows.exe)|
+
+#### Cocos Simuator 下载
+| No.| 文件名| 下载链接 |
+| ------- |:-------------:| :----------------------------------:|
+|1|CocosSimulatorWin_v1.0.exe|[http://www.cocos2d-x.org/filedown/CocosSimulatorWin_v1.0.exe](http://www.cocos2d-x.org/filedown/CocosSimulatorWin_v1.0.exe)|
+|2|CocosSimulatorMac_v1.0.pkg|[http://www.cocos2d-x.org/filedown/CocosSimulatorMac_v1.0.pkg](http://www.cocos2d-x.org/filedown/CocosSimulatorMac_v1.0.pkg)|
+
+#### Cocos IDE 下载
+| No.| 文件名| 下载链接 |
+| ------- |:-------------:| :----------------------------------:|
+|1|cocos-intellij-plugin-2.0.0-beta.zip|[http://www.cocos2d-x.org/filedown/cocos-intellij-plugin-2.0.0-beta.zip](http://www.cocos2d-x.org/filedown/cocos-intellij-plugin-2.0.0-beta.zip)|
+|2|cocos-code-ide-win64-1.2.0.exe|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.2.0.exe](http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.2.0.exe)|
+|3|cocos-code-ide-win64-1.1.0.exe|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.1.0.exe](http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.1.0.exe)|
+|4|cocos-code-ide-win64-1.0.2.exe|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.2.exe](http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.2.exe)|
+|5|cocos-code-ide-win64-1.0.2.exe|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.2.exe](http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.2.exe)|
+|6|cocos-code-ide-win64-1.0.2-beta.zip|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.2-beta.zip](http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.2-beta.zip)|
+|7|cocos-code-ide-win64-1.0.1.exe|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.1.exe](http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.1.exe)|
+|8|cocos-code-ide-win64-1.0.0-rc2.zip|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.0-rc2.zip](http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.0-rc2.zip)|
+|9|cocos-code-ide-win64-1.0.0-rc2.exe|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.0-rc2.exe](http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.0-rc2.exe)|
+|10|cocos-code-ide-win64-1.0.0-rc1.zip|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.0-rc1.zip](http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.0-rc1.zip)|
+|11|cocos-code-ide-win64-1.0.0-rc0.zip|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.0-rc0.zip](http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.0-rc0.zip)|
+|12|cocos-code-ide-win64-1.0.0-rc0.exe|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.0-rc0.exe](http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.0-rc0.exe)|
+|13|cocos-code-ide-win64-1.0.0-final.zip|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.0-final.zip](http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.0-final.zip)|
+|14|cocos-code-ide-win64-1.0.0-final.exe|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.0-final.exe](http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.0-final.exe)|
+|15|cocos-code-ide-win64-1.0.0-beta-zip-cncdn|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.0-beta-zip-cncdn](http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.0-beta-zip-cncdn)|
+|16|cocos-code-ide-win32-1.2.0.exe|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.2.0.exe](http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.2.0.exe)|
+|17|cocos-code-ide-win32-1.1.0.exe|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.1.0.exe](http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.1.0.exe)|
+|18|cocos-code-ide-win32-1.0.2.exe|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.2.exe](http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.2.exe)|
+|19|cocos-code-ide-win32-1.0.2-beta.zip|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.2-beta.zip](http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.2-beta.zip)|
+|20|cocos-code-ide-win32-1.0.1.exe|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.1.exe](http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.1.exe)|
+|21|cocos-code-ide-win32-1.0.0-rc2.zip|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.0-rc2.zip](http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.0-rc2.zip)|
+|22|cocos-code-ide-win32-1.0.0-rc2.exe|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.0-rc2.exe](http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.0-rc2.exe)|
+|23|cocos-code-ide-win32-1.0.0-rc1.zip|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.0-rc1.zip](http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.0-rc1.zip)|
+|24|cocos-code-ide-win32-1.0.0-rc1.exe|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.0-rc1.exe](http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.0-rc1.exe)|
+|25|cocos-code-ide-win32-1.0.0-rc0.zip|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.0-rc0.zip](http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.0-rc0.zip)|
+|26|cocos-code-ide-win32-1.0.0-rc0.exe|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.0-rc0.exe](http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.0-rc0.exe)|
+|27|cocos-code-ide-win32-1.0.0-final.zip|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.0-final.zip](http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.0-final.zip)|
+|28|cocos-code-ide-win32-1.0.0-final.exe|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.0-final.exe](http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.0-final.exe)|
+|29|cocos-code-ide-win32-1.0.0-beta-zip-cncdn|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.0-beta-zip-cncdn](http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.0.0-beta-zip-cncdn)|
+|30|cocos-code-ide-mac64-1.2.0.dmg|[http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.2.0.dmg](http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.2.0.dmg)|
+|31|cocos-code-ide-mac64-1.1.0.dmg|[http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.1.0.dmg](http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.1.0.dmg)|
+|32|cocos-code-ide-mac64-1.0.2.dmg|[http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.0.2.dmg](http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.0.2.dmg)|
+|33|cocos-code-ide-mac64-1.0.2-beta.zip|[http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.0.2-beta.zip](http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.0.2-beta.zip)|
+|34|cocos-code-ide-mac64-1.0.1.dmg|[http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.0.1.dmg](http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.0.1.dmg)|
+|35|cocos-code-ide-mac64-1.0.0-rc2.dmg|[http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.0.0-rc2.dmg](http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.0.0-rc2.dmg)|
+|36|cocos-code-ide-mac64-1.0.0-rc1.dmg|[http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.0.0-rc1.dmg](http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.0.0-rc1.dmg)|
+|37|cocos-code-ide-mac64-1.0.0-rc0.zip|[http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.0.0-rc0.zip](http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.0.0-rc0.zip)|
+|38|cocos-code-ide-mac64-1.0.0-rc0.dmg|[http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.0.0-rc0.dmg](http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.0.0-rc0.dmg)|
+|39|cocos-code-ide-mac64-1.0.0-final.dmg|[http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.0.0-final.dmg](http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.0.0-final.dmg)|
+|40|cocos-code-ide-mac64-1.0.0-beta-zip-cncdn|[http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.0.0-beta-zip-cncdn](http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.0.0-beta-zip-cncdn)|
+|41|cocos-code-ide-2.0.0-beta.exe|[http://www.cocos2d-x.org/filedown/cocos-code-ide-2.0.0-beta.exe](http://www.cocos2d-x.org/filedown/cocos-code-ide-2.0.0-beta.exe)|
+|42|cocos-code-ide-2.0.0-beta.dmg|[http://www.cocos2d-x.org/filedown/cocos-code-ide-2.0.0-beta.dmg](http://www.cocos2d-x.org/filedown/cocos-code-ide-2.0.0-beta.dmg)|
+|43|cocos-code-ide-1.1.0-update.zip|[http://www.cocos2d-x.org/filedown/cocos-code-ide-1.1.0-update.zip](http://www.cocos2d-x.org/filedown/cocos-code-ide-1.1.0-update.zip)|
+|44|cocos-code-ide-1.0.2-update.zip|[http://www.cocos2d-x.org/filedown/cocos-code-ide-1.0.2-update.zip](http://www.cocos2d-x.org/filedown/cocos-code-ide-1.0.2-update.zip)|
+
+#### Cocos Creator 下载
+| No.| 文件名| 下载链接 |
+| ------- |:-------------:| :----------------------------------:|
+|1|CocosCreator_v0.7.1_win_en|[http://www.cocos2d-x.org/filedown/CocosCreator_v0.7.1_win_en](http://www.cocos2d-x.org/filedown/CocosCreator_v0.7.1_win_en)|
+|2|CocosCreator_v0.7.1_mac_en|[http://www.cocos2d-x.org/filedown/CocosCreator_v0.7.1_mac_en](http://www.cocos2d-x.org/filedown/CocosCreator_v0.7.1_mac_en)|
+|3|CocosCreator_v0.7.0_win.zip|[http://www.cocos2d-x.org/filedown/CocosCreator_v0.7.0_win.zip](http://www.cocos2d-x.org/filedown/CocosCreator_v0.7.0_win.zip)|
+|4|CocosCreator_v0.7.0_mac.zip|[http://www.cocos2d-x.org/filedown/CocosCreator_v0.7.0_mac.zip](http://www.cocos2d-x.org/filedown/CocosCreator_v0.7.0_mac.zip)|
+
+
+### Cocos 版本关系说明
+
+#### Cocos2d-x 与 Cocos Studio 版本对应关系
+
+#### Cocos2d-x 与 NDK 版本对应关系
+
+
+### Cocos Android 相关下载
+
+#### Android NDK 下载（百度盘）
+
 更新时间：2016-03-13 16:02:04
+
+### Cocos 第三方游戏工具下载
