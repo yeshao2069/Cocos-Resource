@@ -1,17 +1,18 @@
 # Cocos2d-x 资料大全（全版本）
----
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
 - [Cocos 文档相关](#cocos-%E6%96%87%E6%A1%A3%E7%9B%B8%E5%85%B3)
   - [Cocos2d-x 中英文发布说明](#cocos2d-x-%E4%B8%AD%E8%8B%B1%E6%96%87%E5%8F%91%E5%B8%83%E8%AF%B4%E6%98%8E)
-  - [Cocos2d-x API 手册离线版下载（百度盘）](#cocos2d-x-api-%E6%89%8B%E5%86%8C%E7%A6%BB%E7%BA%BF%E7%89%88%E4%B8%8B%E8%BD%BD%EF%BC%88%E7%99%BE%E5%BA%A6%E7%9B%98%EF%BC%89)
   - [Cocos2d-x 官方文档](#cocos2d-x-%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3)
+  - [Cocos2d-x API 手册](#cocos2d-x-api-%E6%89%8B%E5%86%8C)
   - [Cocos Creator 官方文档](#cocos-creator-%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3)
+  - [Cocos Creator API 手册](#cocos-creator-api-%E6%89%8B%E5%86%8C)
 - [Cocos 引擎下载](#cocos-%E5%BC%95%E6%93%8E%E4%B8%8B%E8%BD%BD)
   - [Cocos2d-x 引擎下载](#cocos2d-x-%E5%BC%95%E6%93%8E%E4%B8%8B%E8%BD%BD)
   - [Cocos2d-js 引擎下载](#cocos2d-js-%E5%BC%95%E6%93%8E%E4%B8%8B%E8%BD%BD)
+  - [Cocos2d-js Lite 引擎下载](#cocos2d-js-lite-%E5%BC%95%E6%93%8E%E4%B8%8B%E8%BD%BD)
 - [Cocos 配套工具下载](#cocos-%E9%85%8D%E5%A5%97%E5%B7%A5%E5%85%B7%E4%B8%8B%E8%BD%BD)
   - [Cocos 下载](#cocos-%E4%B8%8B%E8%BD%BD)
   - [Cocos Studio 下载](#cocos-studio-%E4%B8%8B%E8%BD%BD)
@@ -23,7 +24,7 @@
   - [Cocos2d-x 与 Cocos Studio 版本对应关系](#cocos2d-x-%E4%B8%8E-cocos-studio-%E7%89%88%E6%9C%AC%E5%AF%B9%E5%BA%94%E5%85%B3%E7%B3%BB)
   - [Cocos2d-x 与 NDK 版本对应关系](#cocos2d-x-%E4%B8%8E-ndk-%E7%89%88%E6%9C%AC%E5%AF%B9%E5%BA%94%E5%85%B3%E7%B3%BB)
 - [Cocos Android 相关下载](#cocos-android-%E7%9B%B8%E5%85%B3%E4%B8%8B%E8%BD%BD)
-  - [Android NDK 下载（百度盘）](#android-ndk-%E4%B8%8B%E8%BD%BD%EF%BC%88%E7%99%BE%E5%BA%A6%E7%9B%98%EF%BC%89)
+  - [Android NDK 下载](#android-ndk-%E4%B8%8B%E8%BD%BD)
 - [Cocos 第三方游戏工具下载](#cocos-%E7%AC%AC%E4%B8%89%E6%96%B9%E6%B8%B8%E6%88%8F%E5%B7%A5%E5%85%B7%E4%B8%8B%E8%BD%BD)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -32,18 +33,53 @@
 
 #### Cocos2d-x 中英文发布说明
 
-#### Cocos2d-x API 手册离线版下载（百度盘）
+* GitBook 地址：[http://fusijie.github.io/Cocos2dx-Release-Note](http://fusijie.github.io/Cocos2dx-Release-Note)
+
+* Github 地址：[https://github.com/fusijie/Cocos2dx-Release-Note](https://github.com/fusijie/Cocos2dx-Release-Note)
 
 #### Cocos2d-x 官方文档
 
+在线版：[http://www.cocos2d-x.org/docs](http://www.cocos2d-x.org/docs)
+
+离线版：[https://github.com/chukong/cocos-docs](https://github.com/chukong/cocos-docs)
+
+#### Cocos2d-x API 手册
+
+* 在线版：[http://www.cocos2d-x.org/docs/api-ref/index.html](http://www.cocos2d-x.org/docs/api-ref/index.html)
+
+* 离线版：
+	
+	* v2.2.3 正式版：[http://pan.baidu.com/s/1pKhOXcR](http://pan.baidu.com/s/1pKhOXcR)
+	* v2.2.6 正式版：[http://pan.baidu.com/s/1pJJnFwZ](http://pan.baidu.com/s/1pJJnFwZ)
+	* v3.0 正式版：[http://pan.baidu.com/s/1gdYBU6n](http://pan.baidu.com/s/1gdYBU6n)
+	* v3.1 正式版：[http://pan.baidu.com/s/1bn0Hevt](http://pan.baidu.com/s/1bn0Hevt)
+	* v3.2 正式版：[http://pan.baidu.com/s/1kT3ODJx](http://pan.baidu.com/s/1kT3ODJx)
+	* v3.3 正式版：[http://pan.baidu.com/s/1qW2WA1A](http://pan.baidu.com/s/1qW2WA1A)
+	* v3.4 正式版：[http://pan.baidu.com/s/1kTh3VJT](http://pan.baidu.com/s/1kTh3VJT)
+	* v3.5 正式版：[http://pan.baidu.com/s/1eQjbJ0Y](http://pan.baidu.com/s/1eQjbJ0Y)
+	* v3.6 正式版：[http://pan.baidu.com/s/1eQEQKrK](http://pan.baidu.com/s/1eQEQKrK)
+	* v3.7 正式版：[]()
+	* v3.8 正式版：[]()
+	* v3.9 正式版：[]()
+	* v3.10 正式版：[]()
+
 #### Cocos Creator 官方文档
 
+英文版：[http://www.cocos2d-x.org/docs/editors_and_tools/creator/index.html](http://www.cocos2d-x.org/docs/editors_and_tools/creator/index.html)
+
+中文版：[http://www.cocos.com/docs/creator](http://www.cocos.com/docs/creator)
+
+#### Cocos Creator API 手册
+
+英文版：[http://www.cocos2d-x.org/docs/api-ref/index.html](http://www.cocos2d-x.org/docs/api-ref/index.html)
+
+中文版：[http://cocos.com/docs/creator/api](http://cocos.com/docs/creator/api)
 
 ### Cocos 引擎下载
 
 #### Cocos2d-x 引擎下载
 | No.| 文件名| 下载链接 |
-| ------- |:-------------:| :----------------------------------:|
+| :-------: |:-------------| :----------------------------------|
 |1|cocos2d-x-4.0alpha1.zip|[http://www.cocos2d-x.org/filedown/cocos2d-x-4.0alpha1.zip](http://www.cocos2d-x.org/filedown/cocos2d-x-4.0alpha1.zip)|
 |2|cocos2d-x-4.0alpha0.zip|[http://www.cocos2d-x.org/filedown/cocos2d-x-4.0alpha0.zip](http://www.cocos2d-x.org/filedown/cocos2d-x-4.0alpha0.zip)|
 |3|cocos2d-x-3.9rc0.zip|[http://www.cocos2d-x.org/filedown/cocos2d-x-3.9rc0.zip](http://www.cocos2d-x.org/filedown/cocos2d-x-3.9rc0.zip)|
@@ -92,8 +128,10 @@
 |46|cocos2d-x-2.2.4|[http://www.cocos2d-x.org/filedown/cocos2d-x-2.2.4](http://www.cocos2d-x.org/filedown/cocos2d-x-2.2.4)|
 
 #### Cocos2d-js 引擎下载
+*从 v3.7 开始，Cocos2d-js 合并入 Cocos2d-x。*
+
 | No.| 文件名| 下载链接 |
-| ------- |:-------------:| :----------------------------------:|
+| :-------: |:-------------| :----------------------------------|
 |1|cocos2d-js-v3.7beta0.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.7beta0.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.7beta0.zip)|
 |2|cocos2d-js-v3.6.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.6.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.6.zip)|
 |3|cocos2d-js-v3.6.1.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.6.1.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.6.1.zip)|
@@ -116,11 +154,15 @@
 |20|cocos2d-js-v3.0-beta.zip|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-beta.zip](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-beta.zip)|
 |21|cocos2d-js-v3.0-alpha2-zip-cncdn|[http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-alpha2-zip-cncdn](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-alpha2-zip-cncdn)|
 
+#### Cocos2d-js Lite 引擎下载
+
+在线生成：[http://cocos2d-x.org/filecenter/jsbuilder/](http://cocos2d-x.org/filecenter/jsbuilder/)
+
 ### Cocos 配套工具下载
 
 #### Cocos 下载
 | No.| 文件名| 下载链接 |
-| ------- |:-------------:| :----------------------------------:|
+| :-------: |:-------------| :----------------------------------|
 |1|CocosForWinWithFramework-v2.3.3.exe|[http://www.cocos2d-x.org/filedown/CocosForWinWithFramework-v2.3.3.exe](http://www.cocos2d-x.org/filedown/CocosForWinWithFramework-v2.3.3.exe)|
 |2|CocosForWinWithFramework-v2.3.2.exe|[http://www.cocos2d-x.org/filedown/CocosForWinWithFramework-v2.3.2.exe](http://www.cocos2d-x.org/filedown/CocosForWinWithFramework-v2.3.2.exe)|
 |3|CocosForWinWithFramework-v2.3.2.3.exe|[http://www.cocos2d-x.org/filedown/CocosForWinWithFramework-v2.3.2.3.exe](http://www.cocos2d-x.org/filedown/CocosForWinWithFramework-v2.3.2.3.exe)|
@@ -206,7 +248,7 @@
 
 #### Cocos Studio 下载
 | No.| 文件名| 下载链接 |
-| ------- |:-------------:| :----------------------------------:|
+| :-------: |:-------------| :----------------------------------|
 |1|CocosStudio_v1.6.0.0_store.exe|[http://www.cocos2d-x.org/filedown/CocosStudio_v1.6.0.0_store.exe](http://www.cocos2d-x.org/filedown/CocosStudio_v1.6.0.0_store.exe)|
 |2|CocosStudio_v1.6.0.0.exe|[http://www.cocos2d-x.org/filedown/CocosStudio_v1.6.0.0.exe](http://www.cocos2d-x.org/filedown/CocosStudio_v1.6.0.0.exe)|
 |3|CocosStudio_v1.5.0.1.exe|[http://www.cocos2d-x.org/filedown/CocosStudio_v1.5.0.1.exe](http://www.cocos2d-x.org/filedown/CocosStudio_v1.5.0.1.exe)|
@@ -246,7 +288,7 @@
 
 #### Cocos FrameWork 下载
 | No.| 文件名| 下载链接 |
-| ------- |:-------------:| :----------------------------------:|
+| :-------: |:-------------| :----------------------------------|
 |1|CocosFrameworkSamples_v3.9.zip|[http://www.cocos2d-x.org/filedown/CocosFrameworkSamples_v3.9.zip](http://www.cocos2d-x.org/filedown/CocosFrameworkSamples_v3.9.zip)|
 |2|CocosFrameworkSamples_v3.8.zip|[http://www.cocos2d-x.org/filedown/CocosFrameworkSamples_v3.8.zip](http://www.cocos2d-x.org/filedown/CocosFrameworkSamples_v3.8.zip)|
 |3|CocosFramework-v3.7.pkg|[http://www.cocos2d-x.org/filedown/CocosFramework-v3.7.pkg](http://www.cocos2d-x.org/filedown/CocosFramework-v3.7.pkg)|
@@ -272,13 +314,13 @@
 
 #### Cocos Simuator 下载
 | No.| 文件名| 下载链接 |
-| ------- |:-------------:| :----------------------------------:|
+| :-------: |:-------------| :----------------------------------|
 |1|CocosSimulatorWin_v1.0.exe|[http://www.cocos2d-x.org/filedown/CocosSimulatorWin_v1.0.exe](http://www.cocos2d-x.org/filedown/CocosSimulatorWin_v1.0.exe)|
 |2|CocosSimulatorMac_v1.0.pkg|[http://www.cocos2d-x.org/filedown/CocosSimulatorMac_v1.0.pkg](http://www.cocos2d-x.org/filedown/CocosSimulatorMac_v1.0.pkg)|
 
 #### Cocos IDE 下载
 | No.| 文件名| 下载链接 |
-| ------- |:-------------:| :----------------------------------:|
+| :-------: |:-------------| :----------------------------------|
 |1|cocos-intellij-plugin-2.0.0-beta.zip|[http://www.cocos2d-x.org/filedown/cocos-intellij-plugin-2.0.0-beta.zip](http://www.cocos2d-x.org/filedown/cocos-intellij-plugin-2.0.0-beta.zip)|
 |2|cocos-code-ide-win64-1.2.0.exe|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.2.0.exe](http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.2.0.exe)|
 |3|cocos-code-ide-win64-1.1.0.exe|[http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.1.0.exe](http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.1.0.exe)|
@@ -326,7 +368,7 @@
 
 #### Cocos Creator 下载
 | No.| 文件名| 下载链接 |
-| ------- |:-------------:| :----------------------------------:|
+| :-------: |:-------------| :----------------------------------|
 |1|CocosCreator_v0.7.1_win_en|[http://www.cocos2d-x.org/filedown/CocosCreator_v0.7.1_win_en](http://www.cocos2d-x.org/filedown/CocosCreator_v0.7.1_win_en)|
 |2|CocosCreator_v0.7.1_mac_en|[http://www.cocos2d-x.org/filedown/CocosCreator_v0.7.1_mac_en](http://www.cocos2d-x.org/filedown/CocosCreator_v0.7.1_mac_en)|
 |3|CocosCreator_v0.7.0_win.zip|[http://www.cocos2d-x.org/filedown/CocosCreator_v0.7.0_win.zip](http://www.cocos2d-x.org/filedown/CocosCreator_v0.7.0_win.zip)|
@@ -337,13 +379,53 @@
 
 #### Cocos2d-x 与 Cocos Studio 版本对应关系
 
+*此部分数据来自[CocoaChina: Cocos Studio和Cocos2d-x版本对应关系](http://www.cocoachina.com/bbs/read.php?tid-182077-keyword-%B0%E6%B1%BE%B6%D4%D3%A6.html)，数据可能不完整，仅提供参考。*
+
+* Studio 2.x
+
+| CocosStudio 版本 | Cocos2d-x 版本 | Cocos2d-js 版本 | 备注 |
+| :-------: |:-------:|:------:|:------|
+v2.1.5<br>v2.1.2beta<br>v2.1 (事件:更名Cocos) | v3.4final | v3.3 rc0+ | Cocos新增JSON格式导出，Cocos2d-JS仅支持此格式 |
+v2.1beta | v3.4beta0 | 不支持 | 已分离出reader，可以将reader拉取到其他版本cocos2d-x，以支持新版本的CocosStudio |
+v2.0.6 | v3.3final | 不支持 |
+v2.0.5 | v3.3rc2 | 不支持 |	 
+v2.0.2 | v3.3rc2 | 不支持 |	 
+v2.0beta0 | v3.3rc0	| v3.1 |	
+
+* Studio 1.x
+
+|CocosStudio版本	| Cocos2d-x v3版本 | Cocos2d-x v2版本 | Cocos2d-js版本 |
+| :-------: |:-------:|:------:|:------:|
+1.6.0.0	| 3.2 |	2.2.5 | 3.1 |
+1.5.0.1	| 3.2 |	2.2.5 |	3.0 RC2 |
+1.5.0.0	| 3.0 |	2.2.4 |	3.0 RC2 |
+1.4.0.1	| 3.0 |	2.2.3 |	3.0 RC2 |
+1.4.0.0	| 3.0 |	2.2.3 |	3.0 RC2 |
+1.3.0.1	| 3.0rc1 | 2.2.3 | 3.0 Alpha |
+1.3.0.0	| 3.0rc0 | 2.2.3 |	 
+1.2.0.1	| 3.0beta |	2.2.2 |	 
+1.1.0.0	| | 2.2.1 |
+1.0.0.2 	| | 2.2.0 |
+1.0.0.1 	|
+1.0.0.0	|
+
 #### Cocos2d-x 与 NDK 版本对应关系
 
 
 ### Cocos Android 相关下载
 
-#### Android NDK 下载（百度盘）
+#### Android NDK 下载
 
-更新时间：2016-03-13 16:02:04
+*百度盘，包含 Mac 32/64 位，Windows 32/64 位，Linux 32/64 位。*
+
+* r8e: [http://pan.baidu.com/s/1c0SCvug](http://pan.baidu.com/s/1c0SCvug)
+
+* r9d: [http://pan.baidu.com/s/1kUiDdmZ](http://pan.baidu.com/s/1kUiDdmZ)
+
+* r10c: [http://pan.baidu.com/s/1dEabLVr](http://pan.baidu.com/s/1dEabLVr)
 
 ### Cocos 第三方游戏工具下载
+
+
+
+update: Sun Mar 13 22:24:17 CST 2016
