@@ -389,7 +389,7 @@ for k in dict:
 	dict[k].sort()
 	dict[k].reverse()
 	f.write("### " + k + "\n")
-	f.write("| No.| 文件名| 下载链接 |\n| ------- |:-------------:| :----------------------------------:|\n")
+	f.write("| No.| 文件名| 下载链接 |\n| :-------: |:-------------| :----------------------------------|\n")
 	count = 0
 	for file_name in dict[k]:
 		count = count + 1
