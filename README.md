@@ -58,10 +58,10 @@
 	* v3.4 正式版：[http://pan.baidu.com/s/1kTh3VJT](http://pan.baidu.com/s/1kTh3VJT)
 	* v3.5 正式版：[http://pan.baidu.com/s/1eQjbJ0Y](http://pan.baidu.com/s/1eQjbJ0Y)
 	* v3.6 正式版：[http://pan.baidu.com/s/1eQEQKrK](http://pan.baidu.com/s/1eQEQKrK)
-	* v3.7 正式版：[]()
-	* v3.8 正式版：[]()
-	* v3.9 正式版：[]()
-	* v3.10 正式版：[]()
+	* v3.7 正式版：[tbd]()
+	* v3.8 正式版：[tbd]()
+	* v3.9 正式版：[tbd]()
+	* v3.10 正式版：[tbd]()
 
 #### Cocos Creator 官方文档
 
@@ -410,7 +410,7 @@ v2.0beta0 | v3.3rc0	| v3.1 |
 1.0.0.0	|
 
 #### Cocos2d-x 与 NDK 版本对应关系
-
+tbd
 
 ### Cocos Android 相关下载
 
@@ -425,7 +425,7 @@ v2.0beta0 | v3.3rc0	| v3.1 |
 * r10c: [http://pan.baidu.com/s/1dEabLVr](http://pan.baidu.com/s/1dEabLVr)
 
 ### Cocos 第三方游戏工具下载
-
+tbd
 
 
 update: Sun Mar 13 22:24:17 CST 2016
