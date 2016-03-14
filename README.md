@@ -1,45 +1,49 @@
+<link href="css/avenir-white.css" rel="stylesheet"></link>
 # Cocos 资料大全（全版本）
+
+本文托管在[Cocos-Resource Github](https://github.com/fusijie/Cocos-Resource)，定期更新。
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [Cocos 文档相关](#cocos-%E6%96%87%E6%A1%A3%E7%9B%B8%E5%85%B3)
-  - [Cocos2d-x 中英文发布说明](#cocos2d-x-%E4%B8%AD%E8%8B%B1%E6%96%87%E5%8F%91%E5%B8%83%E8%AF%B4%E6%98%8E)
-  - [Cocos2d-x 官方文档](#cocos2d-x-%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3)
-  - [Cocos2d-x API 手册](#cocos2d-x-api-%E6%89%8B%E5%86%8C)
-  - [Cocos Creator 官方文档](#cocos-creator-%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3)
-  - [Cocos Creator API 手册](#cocos-creator-api-%E6%89%8B%E5%86%8C)
-- [Cocos 引擎下载](#cocos-%E5%BC%95%E6%93%8E%E4%B8%8B%E8%BD%BD)
-  - [Cocos2d-x 引擎下载](#cocos2d-x-%E5%BC%95%E6%93%8E%E4%B8%8B%E8%BD%BD)
-  - [Cocos2d-js 引擎下载](#cocos2d-js-%E5%BC%95%E6%93%8E%E4%B8%8B%E8%BD%BD)
-  - [Cocos2d-js Lite 引擎下载](#cocos2d-js-lite-%E5%BC%95%E6%93%8E%E4%B8%8B%E8%BD%BD)
-- [Cocos 配套工具下载](#cocos-%E9%85%8D%E5%A5%97%E5%B7%A5%E5%85%B7%E4%B8%8B%E8%BD%BD)
-  - [Cocos 下载](#cocos-%E4%B8%8B%E8%BD%BD)
-  - [Cocos Studio 下载](#cocos-studio-%E4%B8%8B%E8%BD%BD)
-  - [Cocos FrameWork 下载](#cocos-framework-%E4%B8%8B%E8%BD%BD)
-  - [Cocos Simuator 下载](#cocos-simuator-%E4%B8%8B%E8%BD%BD)
-  - [Cocos IDE 下载](#cocos-ide-%E4%B8%8B%E8%BD%BD)
-  - [Cocos Creator 下载](#cocos-creator-%E4%B8%8B%E8%BD%BD)
-- [Cocos 版本关系说明](#cocos-%E7%89%88%E6%9C%AC%E5%85%B3%E7%B3%BB%E8%AF%B4%E6%98%8E)
-  - [Cocos2d-x 与 Cocos Studio 版本对应关系](#cocos2d-x-%E4%B8%8E-cocos-studio-%E7%89%88%E6%9C%AC%E5%AF%B9%E5%BA%94%E5%85%B3%E7%B3%BB)
-  - [Cocos2d-x 与 NDK 版本对应关系](#cocos2d-x-%E4%B8%8E-ndk-%E7%89%88%E6%9C%AC%E5%AF%B9%E5%BA%94%E5%85%B3%E7%B3%BB)
-- [Cocos Android 相关下载](#cocos-android-%E7%9B%B8%E5%85%B3%E4%B8%8B%E8%BD%BD)
-  - [Android NDK 下载](#android-ndk-%E4%B8%8B%E8%BD%BD)
-  - [Android Android Studio 下载](#android-android-studio-%E4%B8%8B%E8%BD%BD)
-  - [Android ADT Bundle 下载](#android-adt-bundle-%E4%B8%8B%E8%BD%BD)
-- [Cocos 第三方游戏工具下载](#cocos-%E7%AC%AC%E4%B8%89%E6%96%B9%E6%B8%B8%E6%88%8F%E5%B7%A5%E5%85%B7%E4%B8%8B%E8%BD%BD)
-  - [位图字体工具](#%E4%BD%8D%E5%9B%BE%E5%AD%97%E4%BD%93%E5%B7%A5%E5%85%B7)
-  - [粒子编辑工具](#%E7%B2%92%E5%AD%90%E7%BC%96%E8%BE%91%E5%B7%A5%E5%85%B7)
-  - [物理编辑工具](#%E7%89%A9%E7%90%86%E7%BC%96%E8%BE%91%E5%B7%A5%E5%85%B7)
-  - [场景编辑工具](#%E5%9C%BA%E6%99%AF%E7%BC%96%E8%BE%91%E5%B7%A5%E5%85%B7)
-  - [纹理图集工具](#%E7%BA%B9%E7%90%86%E5%9B%BE%E9%9B%86%E5%B7%A5%E5%85%B7)
-  - [瓦片地图编辑工具](#%E7%93%A6%E7%89%87%E5%9C%B0%E5%9B%BE%E7%BC%96%E8%BE%91%E5%B7%A5%E5%85%B7)
-  - [声音特效编辑工具](#%E5%A3%B0%E9%9F%B3%E7%89%B9%E6%95%88%E7%BC%96%E8%BE%91%E5%B7%A5%E5%85%B7)
-  - [背景音乐编辑工具](#%E8%83%8C%E6%99%AF%E9%9F%B3%E4%B9%90%E7%BC%96%E8%BE%91%E5%B7%A5%E5%85%B7)
-  - [GIF动画帧导出工具](#gif%E5%8A%A8%E7%94%BB%E5%B8%A7%E5%AF%BC%E5%87%BA%E5%B7%A5%E5%85%B7)
-  - [骨骼动画编辑工具](#%E9%AA%A8%E9%AA%BC%E5%8A%A8%E7%94%BB%E7%BC%96%E8%BE%91%E5%B7%A5%E5%85%B7)
-  - [3D 模型工具](#3d-%E6%A8%A1%E5%9E%8B%E5%B7%A5%E5%85%B7)
-  - [体素编辑工具](#%E4%BD%93%E7%B4%A0%E7%BC%96%E8%BE%91%E5%B7%A5%E5%85%B7)
+  - [Cocos 文档相关](#cocos-%E6%96%87%E6%A1%A3%E7%9B%B8%E5%85%B3)
+    - [Cocos2d-x 中英文发布说明](#cocos2d-x-%E4%B8%AD%E8%8B%B1%E6%96%87%E5%8F%91%E5%B8%83%E8%AF%B4%E6%98%8E)
+    - [Cocos2d-x 官方文档](#cocos2d-x-%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3)
+    - [Cocos2d-x API 手册](#cocos2d-x-api-%E6%89%8B%E5%86%8C)
+    - [Cocos Creator 官方文档](#cocos-creator-%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3)
+    - [Cocos Creator API 手册](#cocos-creator-api-%E6%89%8B%E5%86%8C)
+  - [Cocos 引擎下载](#cocos-%E5%BC%95%E6%93%8E%E4%B8%8B%E8%BD%BD)
+    - [Cocos2d-x 引擎下载](#cocos2d-x-%E5%BC%95%E6%93%8E%E4%B8%8B%E8%BD%BD)
+    - [Cocos2d-js 引擎下载](#cocos2d-js-%E5%BC%95%E6%93%8E%E4%B8%8B%E8%BD%BD)
+    - [Cocos2d-js Lite 引擎下载](#cocos2d-js-lite-%E5%BC%95%E6%93%8E%E4%B8%8B%E8%BD%BD)
+  - [Cocos 配套工具下载](#cocos-%E9%85%8D%E5%A5%97%E5%B7%A5%E5%85%B7%E4%B8%8B%E8%BD%BD)
+    - [Cocos 下载](#cocos-%E4%B8%8B%E8%BD%BD)
+    - [Cocos Studio 下载](#cocos-studio-%E4%B8%8B%E8%BD%BD)
+    - [Cocos FrameWork 下载](#cocos-framework-%E4%B8%8B%E8%BD%BD)
+    - [Cocos Simuator 下载](#cocos-simuator-%E4%B8%8B%E8%BD%BD)
+    - [Cocos IDE 下载](#cocos-ide-%E4%B8%8B%E8%BD%BD)
+    - [Cocos Creator 下载](#cocos-creator-%E4%B8%8B%E8%BD%BD)
+  - [Cocos 版本关系说明](#cocos-%E7%89%88%E6%9C%AC%E5%85%B3%E7%B3%BB%E8%AF%B4%E6%98%8E)
+    - [Cocos2d-x 与 Cocos Studio 版本对应关系](#cocos2d-x-%E4%B8%8E-cocos-studio-%E7%89%88%E6%9C%AC%E5%AF%B9%E5%BA%94%E5%85%B3%E7%B3%BB)
+    - [Cocos2d-x 与 NDK 版本对应关系](#cocos2d-x-%E4%B8%8E-ndk-%E7%89%88%E6%9C%AC%E5%AF%B9%E5%BA%94%E5%85%B3%E7%B3%BB)
+  - [Cocos Android 相关下载](#cocos-android-%E7%9B%B8%E5%85%B3%E4%B8%8B%E8%BD%BD)
+    - [Android NDK 下载](#android-ndk-%E4%B8%8B%E8%BD%BD)
+    - [Android Android Studio 下载](#android-android-studio-%E4%B8%8B%E8%BD%BD)
+    - [Android ADT Bundle 下载](#android-adt-bundle-%E4%B8%8B%E8%BD%BD)
+  - [Cocos 第三方游戏工具下载](#cocos-%E7%AC%AC%E4%B8%89%E6%96%B9%E6%B8%B8%E6%88%8F%E5%B7%A5%E5%85%B7%E4%B8%8B%E8%BD%BD)
+    - [位图字体工具](#%E4%BD%8D%E5%9B%BE%E5%AD%97%E4%BD%93%E5%B7%A5%E5%85%B7)
+    - [粒子编辑工具](#%E7%B2%92%E5%AD%90%E7%BC%96%E8%BE%91%E5%B7%A5%E5%85%B7)
+    - [物理编辑工具](#%E7%89%A9%E7%90%86%E7%BC%96%E8%BE%91%E5%B7%A5%E5%85%B7)
+    - [场景编辑工具](#%E5%9C%BA%E6%99%AF%E7%BC%96%E8%BE%91%E5%B7%A5%E5%85%B7)
+    - [纹理图集工具](#%E7%BA%B9%E7%90%86%E5%9B%BE%E9%9B%86%E5%B7%A5%E5%85%B7)
+    - [瓦片地图编辑工具](#%E7%93%A6%E7%89%87%E5%9C%B0%E5%9B%BE%E7%BC%96%E8%BE%91%E5%B7%A5%E5%85%B7)
+    - [声音特效编辑工具](#%E5%A3%B0%E9%9F%B3%E7%89%B9%E6%95%88%E7%BC%96%E8%BE%91%E5%B7%A5%E5%85%B7)
+    - [背景音乐编辑工具](#%E8%83%8C%E6%99%AF%E9%9F%B3%E4%B9%90%E7%BC%96%E8%BE%91%E5%B7%A5%E5%85%B7)
+    - [GIF 动画帧导出工具](#gif-%E5%8A%A8%E7%94%BB%E5%B8%A7%E5%AF%BC%E5%87%BA%E5%B7%A5%E5%85%B7)
+    - [骨骼动画编辑工具](#%E9%AA%A8%E9%AA%BC%E5%8A%A8%E7%94%BB%E7%BC%96%E8%BE%91%E5%B7%A5%E5%85%B7)
+    - [3D 模型工具](#3d-%E6%A8%A1%E5%9E%8B%E5%B7%A5%E5%85%B7)
+    - [体素编辑工具](#%E4%BD%93%E7%B4%A0%E7%BC%96%E8%BE%91%E5%B7%A5%E5%85%B7)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -559,4 +563,5 @@ v2.0beta0 | v3.3rc0	| v3.1 |
 |VoxelShop	|[点击下载](https://blackflux.com/node/11)|免费|Windows/Mac
 
 
+---
 update: Sun Mar 13 22:24:17 CST 2016
