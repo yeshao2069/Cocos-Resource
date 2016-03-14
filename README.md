@@ -1,7 +1,7 @@
 <link href="css/avenir-white.css" rel="stylesheet"></link>
 # Cocos 资料大全（全版本）
 
-本文托管在[Cocos-Resource Github](https://github.com/fusijie/Cocos-Resource)，定期更新。
+本文定期更新，托管在[Cocos-Resource Github  ](https://github.com/fusijie/Cocos-Resource)<iframe src="https://ghbtns.com/github-btn.html?user=fusijie&repo=cocos-resource&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
