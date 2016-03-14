@@ -446,8 +446,6 @@ v2.0beta0 | v3.3rc0	| v3.1 |
 
 #### Android NDK 下载
 
-*百度盘，包含 Mac 32/64 位，Windows 32/64 位，Linux 32/64 位。*
-
 | NDK 版本 | 下载地址 | 平台 |
 |:---:|:---:|:---:|
 |r8e	|[点击下载](http://pan.baidu.com/s/1c0SCvug)| Windows 32/64 Mac 32/64 Linux 32/64
