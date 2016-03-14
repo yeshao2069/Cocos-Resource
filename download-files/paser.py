@@ -6,6 +6,10 @@ import re
 from collections import OrderedDict
 import time
 
+import sys
+reload(sys)
+sys.setdefaultencoding('utf8')
+
 soup = BeautifulSoup(open("cocos2dx-download.html"))
 
 cocos2dx_download_files = {}
@@ -393,7 +397,7 @@ for k in dict:
 	count = 0
 	for file_name in dict[k]:
 		count = count + 1
-		f.write("|" + str(count) + "|" + file_name + "|" + "[" + cocos2dx_download_files[file_name] + "](" + cocos2dx_download_files[file_name] +")" + "|\n")
+		f.write("|" + str(count) + "|" + file_name + "|" + "[" + "点击下载" + "](" + cocos2dx_download_files[file_name] +")" + "|\n")
 
 f.write("更新时间：" + time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(time.time())))
 f.close()
