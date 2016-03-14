@@ -402,8 +402,8 @@
 
 | CocosStudio 版本 | Cocos2d-x 版本 | Cocos2d-js 版本 | 备注 |
 | :-------: |:-------:|:------:|:------|
-v2.1.5<br>v2.1.2beta<br>v2.1 (事件:更名Cocos) | v3.4final | v3.3 rc0+ | Cocos新增JSON格式导出，Cocos2d-JS仅支持此格式 |
-v2.1beta | v3.4beta0 | 不支持 | 已分离出reader，可以将reader拉取到其他版本cocos2d-x，以支持新版本的CocosStudio |
+v2.1.5<br>v2.1.2beta<br>v2.1 | v3.4final | v3.3 rc0+ | Cocos 新增 JSON 格式导出，Cocos2d-JS 仅支持此格式，v2.1 更名 Cocos |
+v2.1beta | v3.4beta0 | 不支持 | 已分离出 reader，可以将 reader 拉取到其他版本 Cocos2d-x，以支持新版本的 CocosStudio |
 v2.0.6 | v3.3final | 不支持 |
 v2.0.5 | v3.3rc2 | 不支持 |	 
 v2.0.2 | v3.3rc2 | 不支持 |	 
