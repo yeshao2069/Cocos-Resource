@@ -540,7 +540,7 @@ v2.0beta0 | v3.3rc0	| v3.1 |
 | 工具名 | 下载地址 | 授权 | 支持平台 | 
 |:---:|:---:|:---:|:---:|
 |UleadGifAnimator	|[点击下载](http://www.crsky.com/soft/4010.html)|免费|Windows
-|ShowBox				|[点击下载](http://renderhjs.net/shoebox/)|免费|Windows/Mac
+|ShoeBox				|[点击下载](http://renderhjs.net/shoebox/)|免费|Windows/Mac
 
 ####骨骼动画编辑工具
 
