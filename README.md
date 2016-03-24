@@ -1,49 +1,50 @@
 <link href="css/avenir-white.css" rel="stylesheet"></link>
-# Cocos 资料大全（全版本）
+# Cocos 资料大全
 
-本文定期更新，托管在[Cocos-Resource Github  ](https://github.com/fusijie/Cocos-Resource)<iframe src="https://ghbtns.com/github-btn.html?user=fusijie&repo=cocos-resource&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
+**本文定期更新，欢迎提交PR，托管在[Cocos-Resource Github  ](https://github.com/fusijie/Cocos-Resource)**<iframe src="https://ghbtns.com/github-btn.html?user=fusijie&repo=cocos-resource&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px" align="top"></iframe>
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-  - [Cocos 文档相关](#cocos-%E6%96%87%E6%A1%A3%E7%9B%B8%E5%85%B3)
-    - [Cocos2d-x 中英文发布说明](#cocos2d-x-%E4%B8%AD%E8%8B%B1%E6%96%87%E5%8F%91%E5%B8%83%E8%AF%B4%E6%98%8E)
-    - [Cocos2d-x 官方文档](#cocos2d-x-%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3)
-    - [Cocos2d-x API 手册](#cocos2d-x-api-%E6%89%8B%E5%86%8C)
-    - [Cocos Creator 官方文档](#cocos-creator-%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3)
-    - [Cocos Creator API 手册](#cocos-creator-api-%E6%89%8B%E5%86%8C)
-  - [Cocos 引擎下载](#cocos-%E5%BC%95%E6%93%8E%E4%B8%8B%E8%BD%BD)
-    - [Cocos2d-x 引擎下载](#cocos2d-x-%E5%BC%95%E6%93%8E%E4%B8%8B%E8%BD%BD)
-    - [Cocos2d-js 引擎下载](#cocos2d-js-%E5%BC%95%E6%93%8E%E4%B8%8B%E8%BD%BD)
-    - [Cocos2d-js Lite 引擎下载](#cocos2d-js-lite-%E5%BC%95%E6%93%8E%E4%B8%8B%E8%BD%BD)
-  - [Cocos 配套工具下载](#cocos-%E9%85%8D%E5%A5%97%E5%B7%A5%E5%85%B7%E4%B8%8B%E8%BD%BD)
-    - [Cocos 下载](#cocos-%E4%B8%8B%E8%BD%BD)
-    - [Cocos Studio 下载](#cocos-studio-%E4%B8%8B%E8%BD%BD)
-    - [Cocos FrameWork 下载](#cocos-framework-%E4%B8%8B%E8%BD%BD)
-    - [Cocos Simuator 下载](#cocos-simuator-%E4%B8%8B%E8%BD%BD)
-    - [Cocos IDE 下载](#cocos-ide-%E4%B8%8B%E8%BD%BD)
-    - [Cocos Creator 下载](#cocos-creator-%E4%B8%8B%E8%BD%BD)
-  - [Cocos 版本关系说明](#cocos-%E7%89%88%E6%9C%AC%E5%85%B3%E7%B3%BB%E8%AF%B4%E6%98%8E)
-    - [Cocos2d-x 与 Cocos Studio 版本对应关系](#cocos2d-x-%E4%B8%8E-cocos-studio-%E7%89%88%E6%9C%AC%E5%AF%B9%E5%BA%94%E5%85%B3%E7%B3%BB)
-    - [Cocos2d-x 与 NDK 版本对应关系](#cocos2d-x-%E4%B8%8E-ndk-%E7%89%88%E6%9C%AC%E5%AF%B9%E5%BA%94%E5%85%B3%E7%B3%BB)
-  - [Cocos Android 相关下载](#cocos-android-%E7%9B%B8%E5%85%B3%E4%B8%8B%E8%BD%BD)
-    - [Android NDK 下载](#android-ndk-%E4%B8%8B%E8%BD%BD)
-    - [Android Android Studio 下载](#android-android-studio-%E4%B8%8B%E8%BD%BD)
-    - [Android ADT Bundle 下载](#android-adt-bundle-%E4%B8%8B%E8%BD%BD)
-  - [Cocos 第三方游戏工具下载](#cocos-%E7%AC%AC%E4%B8%89%E6%96%B9%E6%B8%B8%E6%88%8F%E5%B7%A5%E5%85%B7%E4%B8%8B%E8%BD%BD)
-    - [位图字体工具](#%E4%BD%8D%E5%9B%BE%E5%AD%97%E4%BD%93%E5%B7%A5%E5%85%B7)
-    - [粒子编辑工具](#%E7%B2%92%E5%AD%90%E7%BC%96%E8%BE%91%E5%B7%A5%E5%85%B7)
-    - [物理编辑工具](#%E7%89%A9%E7%90%86%E7%BC%96%E8%BE%91%E5%B7%A5%E5%85%B7)
-    - [场景编辑工具](#%E5%9C%BA%E6%99%AF%E7%BC%96%E8%BE%91%E5%B7%A5%E5%85%B7)
-    - [纹理图集工具](#%E7%BA%B9%E7%90%86%E5%9B%BE%E9%9B%86%E5%B7%A5%E5%85%B7)
-    - [瓦片地图编辑工具](#%E7%93%A6%E7%89%87%E5%9C%B0%E5%9B%BE%E7%BC%96%E8%BE%91%E5%B7%A5%E5%85%B7)
-    - [声音特效编辑工具](#%E5%A3%B0%E9%9F%B3%E7%89%B9%E6%95%88%E7%BC%96%E8%BE%91%E5%B7%A5%E5%85%B7)
-    - [背景音乐编辑工具](#%E8%83%8C%E6%99%AF%E9%9F%B3%E4%B9%90%E7%BC%96%E8%BE%91%E5%B7%A5%E5%85%B7)
-    - [GIF 动画帧导出工具](#gif-%E5%8A%A8%E7%94%BB%E5%B8%A7%E5%AF%BC%E5%87%BA%E5%B7%A5%E5%85%B7)
-    - [骨骼动画编辑工具](#%E9%AA%A8%E9%AA%BC%E5%8A%A8%E7%94%BB%E7%BC%96%E8%BE%91%E5%B7%A5%E5%85%B7)
-    - [3D 模型工具](#3d-%E6%A8%A1%E5%9E%8B%E5%B7%A5%E5%85%B7)
-    - [体素编辑工具](#%E4%BD%93%E7%B4%A0%E7%BC%96%E8%BE%91%E5%B7%A5%E5%85%B7)
+  - [Cocos 文档相关](#toc_1)
+    - [Cocos2d-x 中英文发布说明](#toc_2)
+    - [Cocos2d-x 官方文档](#toc_3)
+    - [Cocos2d-x API 手册](#toc_4)
+    - [Cocos Creator 官方文档](#toc_5)
+    - [Cocos Creator API 手册](#toc_6)
+  - [Cocos 引擎下载](#toc_7)
+    - [Cocos2d-x 引擎下载](#toc_8)
+    - [Cocos2d-js 引擎下载](#toc_9)
+    - [Cocos2d-js Lite 引擎下载](#toc_10)
+    - [Quick-cocos2d-x 引擎下载](#toc_11)
+  - [Cocos 配套工具下载](#toc_12)
+    - [Cocos 下载](#toc_13)
+    - [Cocos Studio 下载](#toc_14)
+    - [Cocos FrameWork 下载](#toc_15)
+    - [Cocos Simuator 下载](#toc_16)
+    - [Cocos IDE 下载](#toc_17)
+    - [Cocos Creator 下载](#toc_18)
+  - [Cocos 版本关系说明](#toc_19)
+    - [Cocos2d-x 与 Cocos Studio 版本对应关系](#toc_20)
+    - [Cocos2d-x 与 NDK 版本对应关系](#toc_21)
+  - [Cocos Android 相关下载](#toc_22)
+    - [Android NDK 下载](#toc_23)
+    - [Android Android Studio 下载](#toc_24)
+    - [Android ADT Bundle 下载](#toc_25)
+  - [Cocos 第三方游戏工具下载](#toc_26)
+    - [位图字体工具](#toc_27)
+    - [粒子编辑工具](#toc_28)
+    - [物理编辑工具](#toc_29)
+    - [场景编辑工具](#toc_30)
+    - [纹理图集工具](#toc_31)
+    - [瓦片地图编辑工具](#toc_32)
+    - [声音特效编辑工具](#toc_33)
+    - [背景音乐编辑工具](#toc_34)
+    - [GIF 动画帧导出工具](#toc_35)
+    - [骨骼动画编辑工具](#toc_36)
+    - [3D 模型工具](#toc_37)
+    - [体素编辑工具](#toc_38)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -178,6 +179,30 @@
 #### Cocos2d-js Lite 引擎下载
 
 * 在线生成：[http://cocos2d-x.org/filecenter/jsbuilder/](http://cocos2d-x.org/filecenter/jsbuilder/)
+
+#### Quick-cocos2d-x 引擎下载
+
+*Quick-cocos2d-x 大致可以分为三个阶段：v2.x， v3.x 以及现在还在维护的 quick 社区版，因为 quick 的下载都没有 cdn，所以下载地址都是在 Github 上。*
+
+| No.| 文件名| 下载链接 |
+| :-------: |:-------------| :----------------------------------|
+|1|quick-cocos2d-x-community-v3.6.1|[点击下载](https://github.com/iTyran/Quick-Cocos2dx-Community/releases/tag/3.6.1_Release)
+|2|quick-cocos2d-x-community-v3.6|[点击下载](https://github.com/iTyran/Quick-Cocos2dx-Community/releases/tag/3.6_release)
+|3|quick-cocos2d-x-v3.3|[点击下载](https://github.com/dualface/v3quick/releases/tag/quick-cocos2d-x-v3.3)
+|4|quick-cocos2d-x-v3.3rc1|[点击下载](https://github.com/dualface/v3quick/releases/tag/quick-cocos2d-x-v3.3rc1)
+|5|quick-cocos2d-x-v3.3rc0|[点击下载](https://github.com/dualface/v3quick/releases/tag/quick-cocos2d-x-v3.3rc0)
+|6|quick-cocos2d-x-v3.3alpha3|[点击下载](https://github.com/dualface/v3quick/releases/tag/quick-cocos2d-x-v3alpha3)
+|7|quick-cocos2d-x-v3.0alpha2|[点击下载](https://github.com/dualface/v3quick/releases/tag/quick-cocos2d-x-3.0alpha2)
+|8|quick-cocos2d-x-v2.2.6|[点击下载](https://github.com/chukong/quick-cocos2d-x/releases/tag/2.2.6-release)
+|9|quick-cocos2d-x-v2.2.5-plus|[点击下载](https://github.com/chukong/quick-cocos2d-x/releases/tag/2.2.5-plus-release)
+|10|quick-cocos2d-x-v2.2.5|[点击下载](https://github.com/chukong/quick-cocos2d-x/releases/tag/2.2.5-release)
+|11|quick-cocos2d-x-v2.2.4|[点击下载](https://github.com/chukong/quick-cocos2d-x/releases/tag/2.2.4-release)
+|12|quick-cocos2d-x-v2.2.3rc|[点击下载](https://github.com/chukong/quick-cocos2d-x/releases/tag/2.2.3-rc)
+|13|quick-cocos2d-x-v2.2.1rc|[点击下载](https://github.com/chukong/quick-cocos2d-x/releases/tag/2.2.1-rc)
+|14|quick-cocos2d-x-v2.1.5|[点击下载](https://github.com/chukong/quick-cocos2d-x/releases/tag/stable-2.1.5-20130827)
+|15|quick-cocos2d-x-v2.1.4-20130821|[点击下载](https://github.com/chukong/quick-cocos2d-x/releases/tag/stable-2.1.4-20130821)
+|16|quick-cocos2d-x-v2.1.4-20130808|[点击下载](https://github.com/chukong/quick-cocos2d-x/releases/tag/stable-2.1.4-20130808)
+
 
 ### Cocos 配套工具下载
 
@@ -496,6 +521,7 @@ v2.0beta0 | v3.3rc0	| v3.1 |
 |VertexHelper		|[点击下载](https://github.com/jfahrenkrug/VertexHelper)|开源|Mac
 
 ####场景编辑工具
+
 | 工具名 | 下载地址 | 授权 | 支持平台 | 
 |:---:|:---:|:---:|:---:|
 |CocosBuilder		|[点击下载](https://github.com/cocos2d/CocosBuilder)|开源|Mac
