@@ -145,7 +145,6 @@
 |41|cocos2d-x-2.2.6.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-2.2.6.zip)|
 |42|cocos2d-x-2.2.5.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-2.2.5.zip)|
 |43|cocos2d-x-2.2.4.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-2.2.4.zip)|
-|44|cocos2d-x-2.2.4|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-2.2.4)|
 
 #### Cocos2d-js 引擎下载
 *从 v3.7 开始，Cocos2d-js 合并入 Cocos2d-x。*
