@@ -30,7 +30,7 @@
     - [Cocos2d-x 与 NDK 版本对应关系](#cocos2d-x-%E4%B8%8E-ndk-%E7%89%88%E6%9C%AC%E5%AF%B9%E5%BA%94%E5%85%B3%E7%B3%BB)
   - [Cocos Android 相关下载](#cocos-android-%E7%9B%B8%E5%85%B3%E4%B8%8B%E8%BD%BD)
     - [Android NDK 下载](#android-ndk-%E4%B8%8B%E8%BD%BD)
-    - [Android Android Studio 下载](#android-android-studio-%E4%B8%8B%E8%BD%BD)
+    - [Android Studio 下载](#android-studio-%E4%B8%8B%E8%BD%BD)
     - [Android ADT Bundle 下载](#android-adt-bundle-%E4%B8%8B%E8%BD%BD)
   - [Cocos 第三方游戏工具下载](#cocos-%E7%AC%AC%E4%B8%89%E6%96%B9%E6%B8%B8%E6%88%8F%E5%B7%A5%E5%85%B7%E4%B8%8B%E8%BD%BD)
     - [位图字体工具](#%E4%BD%8D%E5%9B%BE%E5%AD%97%E4%BD%93%E5%B7%A5%E5%85%B7)
@@ -478,7 +478,7 @@ v2.0beta0 | v3.3rc0	| v3.1 |
 |r9d	|[点击下载](http://pan.baidu.com/s/1kUiDdmZ)| Windows 32/64 Mac 32/64 Linux 32/64
 |r10c	|[点击下载](http://pan.baidu.com/s/1dEabLVr)| Windows 32/64 Mac 32/64 Linux 32/64
 
-#### Android Android Studio 下载
+#### Android Studio 下载
 
 *从 Cocos2d-x v3.7 开始支持使用 Android Studio。*
 
