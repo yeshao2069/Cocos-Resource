@@ -18,12 +18,14 @@ soup = BeautifulSoup(open("cocos2dx-download.html"))
 def new_line(f):
 	f.write("\n")
 
-def generate_download_md(file_name, dict, download_files):
+def generate_download_md(file_name, dict, download_files, desc):
 	f = open(file_name, 'w')
+	f.write(desc)
+	new_line(f)
 	for k in dict:
 		dict[k].sort()
 		dict[k].reverse()
-		f.write("### " + k + '\n')
+		f.write("#### " + k + '\n')
 		new_line(f)
 		f.write("| 文件名 | 下载链接 |\n|:-------------| :----------------------------------: |\n")
 		for file_name in dict[k]:
@@ -107,6 +109,7 @@ cocos2dx_exclude_download_files = [
 'cocos2d-x-3.0-zip-cncdn',
 'cocos2d-x-4.0alpha0.zip', 
 'cocos2d-x-4.0alpha1.zip',
+'cocos2d-x-2.2.4',
 ]
 
 cocos2dx_framework_download_files = [
@@ -355,7 +358,6 @@ cocos2dx_cpp_download_file = [
 'cocos2d-x-3.7beta0.zip', 
 'cocos2d-x-3.5rc0.zip', 
 'cocos2d-x-3.7rc0.zip', 
-'cocos2d-x-2.2.4', 
 'cocos2d-x-3.2alpha0.zip', 
 'cocos2d-x-3.1rc0', 
 'cocos2d-x-3.9rc0.zip', 
@@ -399,7 +401,7 @@ for link in soup.find_all('a'):
 cocos2dx_engine = OrderedDict()
 cocos2dx_engine['Cocos2d-x 引擎下载'] = cocos2dx_cpp_download_file
 cocos2dx_engine['Cocos2d-js 引擎下载'] = cocos2dx_js_download_file
-generate_download_md('auto/cocos2d-x-engine.md', cocos2dx_engine, cocos2dx_download_files)
+generate_download_md('auto/cocos2d-x-engine.md', cocos2dx_engine, cocos2dx_download_files, '### Cocos 引擎下载\n\n*从 v3.7 开始，Cocos2d-js 合并入 Cocos2d-x。*\n')
 
 cocos2dx_support_tools = OrderedDict()
 cocos2dx_support_tools['Cocos 下载'] = cocos2dx_cocos_download_files
@@ -408,7 +410,7 @@ cocos2dx_support_tools['Cocos FrameWork 下载'] = cocos2dx_framework_download_f
 cocos2dx_support_tools['Cocos Simuator 下载'] = cocos2dx_simulator_download_files
 cocos2dx_support_tools['Cocos IDE 下载'] = cocos2dx_ide_download_files
 cocos2dx_support_tools['Cocos Creator 下载'] = cocos2dx_creator_download_files
-generate_download_md('auto/cocos2d-x-support-tools.md', cocos2dx_support_tools, cocos2dx_download_files)
+generate_download_md('auto/cocos2d-x-support-tools.md', cocos2dx_support_tools, cocos2dx_download_files, '### Cocos 配套工具下载\n')
 
 # Write README
 md_files_name = [
@@ -425,5 +427,6 @@ f = open('README.md','w')
 for md_file_name in md_files_name:
 	with open(md_file_name + '.md', 'r') as f_temp:
 		f.write(f_temp.read())
+new_line(f)
 f.write("更新时间：" + time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(time.time())))
 f.close()
