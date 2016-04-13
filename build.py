@@ -5,8 +5,9 @@ from bs4 import BeautifulSoup
 import re
 from collections import OrderedDict
 import time
-
+from urllib import quote
 import sys
+import os
 
 reload(sys)
 sys.setdefaultencoding('utf8')
@@ -23,15 +24,22 @@ def generate_download_md(file_name, dict, download_files, desc):
 	f.write(desc)
 	new_line(f)
 	for k in dict:
-		dict[k].sort()
-		dict[k].reverse()
-		f.write("#### " + k + '\n')
+		# dict[k].sort()
+		# dict[k].reverse()
+		f.write("####" + k + '\n')
 		new_line(f)
 		f.write("| 文件名 | 下载链接 |\n|:-------------| :----------------------------------: |\n")
 		for file_name in dict[k]:
 			f.write("|" + file_name + "|" + "[" + "点击下载" + "](" + download_files[file_name] +")" + "|\n")
 		new_line(f)
 	f.close()
+
+
+def getUrlEncode(str_line):
+	lower_str_line = str_line.lower()
+	lower_str_line = quote(lower_str_line)
+	lower_str_line = lower_str_line.replace('%20', '-')
+	return '#' + lower_str_line
 
 cocos2dx_download_files = {}
 
@@ -113,6 +121,7 @@ cocos2dx_exclude_download_files = [
 ]
 
 cocos2dx_framework_download_files = [
+'CocosFramework-V3.7.1-Mac.pkg',
 'CocosFramework-v3.6.exe', 
 'CocosFramework-v3.5.exe', 
 'CocosFramework-v3.4rc1-windows.exe', 
@@ -138,6 +147,7 @@ cocos2dx_framework_download_files = [
 ]
 
 cocos2dx_ide_download_files = [
+'cocos-code-ide-win64-1.0.0-rc1.exe',
 'cocos-code-ide-win64-1.0.0-beta-zip-cncdn', 
 'cocos-code-ide-win32-1.2.0.exe', 
 'cocos-code-ide-mac64-1.2.0.dmg', 
@@ -185,6 +195,7 @@ cocos2dx_ide_download_files = [
 ]
 
 cocos2dx_studio_download_files = [
+'CocosStudioForWin-v2.0.6.exe',
 'CocosStudio_v1.0.0.0_Beta.dmg', 
 'CocosStudio_v1.6.0.0.exe', 
 'CocosStudioForMac-v2.0.2.dmg', 
@@ -309,8 +320,12 @@ cocos2dx_cocos_download_files = [
 ]
 
 cocos2dx_creator_download_files = [
-'CocosCreator_v0.7.1_win_en', 
-'CocosCreator_v0.7.1_mac_en', 
+'CocosCreator_v1.0.0_win_en',
+'CocosCreator_v1.0.0_win',
+'CocosCreator_v1.0.0_mac_en',
+'CocosCreator_v1.0.0_mac',
+'CocosCreator_v0.7.1_win_en',
+'CocosCreator_v0.7.1_mac_en',
 'CocosCreator_v0.7.0_mac.zip', 
 'CocosCreator_v0.7.0_win.zip'
 ]
@@ -370,6 +385,7 @@ cocos2dx_js_download_file = [
 'cocos2d-js-v3.3.zip', 
 'cocos2d-js-v3.1.zip', 
 'cocos2d-js-v3.2-rc0.zip', 
+'cocos2d-js-v3.0-rc2.zip',
 'cocos2d-js-v3.0.zip', 
 'cocos2d-js-v3.5.zip', 
 'cocos2d-js-v3.2.zip', 
@@ -388,6 +404,7 @@ cocos2dx_js_download_file = [
 'cocos2d-js-v3.0-pre.zip'
 ]
 
+# Get all files
 for link in soup.find_all('a'):
 	internalLink = "http://www.cocos2d-x.org" + link.get('href')
 	# print(internalLink)
@@ -398,10 +415,39 @@ for link in soup.find_all('a'):
 	cocos2dx_download_files[file_name] = download_link
 
 
+# Check new files
+record_download_files = [
+	cocos2dx_cpp_download_file,
+	cocos2dx_js_download_file,
+	cocos2dx_cocos_download_files,
+	cocos2dx_studio_download_files,
+	cocos2dx_framework_download_files,
+	cocos2dx_simulator_download_files,
+	cocos2dx_ide_download_files,
+	cocos2dx_creator_download_files,
+	cocos2dx_exclude_download_files
+]
+
+not_find_files = []
+for i in cocos2dx_download_files:
+	isFindFile = False
+	for j in record_download_files:
+		for k in j:
+			if i == k :
+				isFindFile = True
+				break
+	if not isFindFile:
+		not_find_files.append(i)
+		print '\'' + i + '\','
+if len(not_find_files) > 0 :
+	print 'Please add not_find_files to cocos2dx_download_files'
+	sys.exit(1)
+
+# Generate auto files
 cocos2dx_engine = OrderedDict()
 cocos2dx_engine['Cocos2d-x 引擎下载'] = cocos2dx_cpp_download_file
 cocos2dx_engine['Cocos2d-js 引擎下载'] = cocos2dx_js_download_file
-generate_download_md('auto/cocos2d-x-engine.md', cocos2dx_engine, cocos2dx_download_files, '### Cocos 引擎下载\n\n*从 v3.7 开始，Cocos2d-js 合并入 Cocos2d-x。*\n')
+generate_download_md('auto/cocos2d-x-engine.md', cocos2dx_engine, cocos2dx_download_files, '###Cocos 引擎下载\n\n*从 v3.7 开始，Cocos2d-js 合并入 Cocos2d-x。*\n')
 
 cocos2dx_support_tools = OrderedDict()
 cocos2dx_support_tools['Cocos 下载'] = cocos2dx_cocos_download_files
@@ -410,10 +456,11 @@ cocos2dx_support_tools['Cocos FrameWork 下载'] = cocos2dx_framework_download_f
 cocos2dx_support_tools['Cocos Simuator 下载'] = cocos2dx_simulator_download_files
 cocos2dx_support_tools['Cocos IDE 下载'] = cocos2dx_ide_download_files
 cocos2dx_support_tools['Cocos Creator 下载'] = cocos2dx_creator_download_files
-generate_download_md('auto/cocos2d-x-support-tools.md', cocos2dx_support_tools, cocos2dx_download_files, '### Cocos 配套工具下载\n')
+generate_download_md('auto/cocos2d-x-support-tools.md', cocos2dx_support_tools, cocos2dx_download_files, '###Cocos 配套工具下载\n')
 
 # Write README
 md_files_name = [
+	'manual/readme-titile',
 	'manual/cocos2d-x-docs',
 	'auto/cocos2d-x-engine',
 	'manual/cocos2d-x-engine-ext',
@@ -423,10 +470,94 @@ md_files_name = [
 	'manual/cocos2d-x-3rd-tools'
 ]
 
-f = open('README.md','w')
+f = open('README_temp.md','w')
 for md_file_name in md_files_name:
 	with open(md_file_name + '.md', 'r') as f_temp:
 		f.write(f_temp.read())
 new_line(f)
 f.write("更新时间：" + time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(time.time())))
 f.close()
+
+# Add toc
+toc = OrderedDict()
+with open('README_temp.md', 'r') as f:
+	last3sharp = ''
+	for line in f.readlines():
+		strLine = line.strip()
+		if line.find("####") != -1:
+			strLine = strLine.replace('####', '')
+			# print(line.strip())
+			toc[last3sharp].append(strLine)
+		elif line.find("###") != -1:
+			# print(line.strip())
+			strLine = strLine.replace('###', '')
+			last3sharp = strLine
+			toc[last3sharp] = []
+
+with open('toc_urlencode.md', 'w') as f:
+	for _3sharp in toc:
+		f.write('- ')
+		f.write('[')
+		f.write(_3sharp)
+		f.write('](')
+		f.write(getUrlEncode(_3sharp))
+		f.write(')')
+		f.write('\n')
+		for _4sharp in toc[_3sharp]:
+			f.write('\t- ')
+			f.write('[')
+			f.write(_4sharp)
+			f.write('](')
+			f.write(getUrlEncode(_4sharp))
+			f.write(')')
+			f.write('\n')
+
+with open('toc_number.md', 'w') as f:
+	count = 1
+	for _3sharp in toc:
+		f.write('- ')
+		f.write('[')
+		f.write(_3sharp)
+		f.write('](')
+		f.write('#toc_' + str(count))
+		f.write(')')
+		count = count + 1
+		f.write('\n')
+		for _4sharp in toc[_3sharp]:
+			f.write('\t- ')
+			f.write('[')
+			f.write(_4sharp)
+			f.write('](')
+			f.write('#toc_' + str(count))
+			f.write(')')
+			f.write('\n')
+			count = count + 1
+
+with open('README_temp.md', 'r') as fReadMe:
+	strReadMe = fReadMe.read()
+
+with open('toc_urlencode.md', 'r') as fToc:
+	strToc = fToc.read()
+
+with open('README.md', 'w') as fReadMe:
+	indexOfTocFlag = strReadMe.find('<!--TOC END-->')
+	if  indexOfTocFlag != -1 :
+		fReadMe.write(strReadMe[:indexOfTocFlag] + '\n' + strToc + '\n' + strReadMe[indexOfTocFlag:])
+	else :
+		print "Toc flag not found."
+
+with open('toc_number.md', 'r') as fToc:
+	strToc = fToc.read()
+
+with open('README_number.md', 'w') as fReadMe:
+	indexOfTocFlag = strReadMe.find('<!--TOC END-->')
+	if  indexOfTocFlag != -1 :
+		fReadMe.write(strReadMe[:indexOfTocFlag] + '\n' + strToc + '\n' + strReadMe[indexOfTocFlag:])
+	else :
+		print "Toc flag not found."
+
+# Remove temp files
+os.remove('README_temp.md')
+os.remove('toc_number.md')
+os.remove('toc_urlencode.md')
+

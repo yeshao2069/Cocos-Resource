@@ -1,8 +1,8 @@
-#### Cocos2d-js Lite 引擎下载
+####Cocos2d-js Lite 引擎下载
 
 * 在线生成：[http://cocos2d-x.org/filecenter/jsbuilder/](http://cocos2d-x.org/filecenter/jsbuilder/)
 
-#### Quick-cocos2d-x 引擎下载
+####Quick-cocos2d-x 引擎下载
 
 *Quick-cocos2d-x 大致可以分为三个阶段：v2.x， v3.x 以及现在还在维护的 quick 社区版，因为 quick 的下载都没有 cdn，所以下载地址都是在 Github 上。*
 

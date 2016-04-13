@@ -1,6 +1,6 @@
-### Cocos 版本关系说明
+###Cocos 版本关系说明
 
-#### Cocos2d-x 与 Cocos Studio 版本对应关系
+####Cocos2d-x 与 Cocos Studio 版本对应关系
 
 *此部分数据来自[CocoaChina: Cocos Studio和Cocos2d-x版本对应关系](http://www.cocoachina.com/bbs/read.php?tid-182077-keyword-%B0%E6%B1%BE%B6%D4%D3%A6.html)，数据可能不完整，仅提供参考。*
 
@@ -32,7 +32,7 @@ v2.0beta0 | v3.3rc0	| v3.1 |
 1.0.0.1 	|
 1.0.0.0	|
 
-#### Cocos2d-x 与 NDK 版本对应关系
+####Cocos2d-x 与 NDK 版本对应关系
 
 | Cocos2-x 版本 | NDK 版本 | 备注 |
 |:-----:|:-----:|:------|
