@@ -102,74 +102,76 @@
 
 | 文件名 | 下载链接 |
 |:-------------| :----------------------------------: |
+|cocos2d-x-3.12.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.12.zip)|
+|cocos2d-x-3.11.1.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.11.1.zip)|
+|cocos2d-x-3.11.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.11.zip)|
 |cocos2d-x-3.10.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.10.zip)|
-|cocos2d-x-3.6.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.6.zip)|
 |cocos2d-x-3.9.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.9.zip)|
-|cocos2d-x-3.7.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.7.zip)|
-|cocos2d-x-3.9beta0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.9beta0.zip)|
-|cocos2d-x-3.5.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.5.zip)|
-|cocos2d-x-3.7.1.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.7.1.zip)|
-|cocos2d-x-3.8.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.8.zip)|
-|cocos2d-x-2.2.6.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-2.2.6.zip)|
-|cocos2d-x-3.3.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.3.zip)|
-|cocos2d-x-3.0-cn|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.0-cn)|
-|cocos2d-x-3.3beta0|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.3beta0)|
-|cocos2d-x-3.8.1.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.8.1.zip)|
-|cocos2d-x-3.2.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.2.zip)|
-|cocos2d-x-3.4.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.4.zip)|
-|cocos2d-x-3.8beta0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.8beta0.zip)|
-|cocos2d-x-3.3rc0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.3rc0.zip)|
-|cocos2d-x-2.2.5.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-2.2.5.zip)|
-|cocos2d-x-3.4beta0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.4beta0.zip)|
-|cocos2d-x-3.6beta0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.6beta0.zip)|
-|cocos2d-x-3.8-rc0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.8-rc0.zip)|
-|cocos2d-x-3.0rc2-cn|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.0rc2-cn)|
-|cocos2d-x-3.1.1.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.1.1.zip)|
-|cocos2d-x-3.3rc1.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.3rc1.zip)|
-|cocos2d-x-3.1.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.1.zip)|
-|cocos2d-x-3.6alpha0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.6alpha0.zip)|
-|cocos2d-x-3.2rc0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.2rc0.zip)|
-|cocos2d-x-3.4rc1.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.4rc1.zip)|
-|cocos2d-x-3.3rc2.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.3rc2.zip)|
-|cocos2d-x-3.4rc0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.4rc0.zip)|
-|cocos2d-x-3.5-tizen.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.5-tizen.zip)|
-|cocos2d-x-2.2.4.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-2.2.4.zip)|
-|cocos2d-x-3.5beta0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.5beta0.zip)|
-|cocos2d-x-3.7rc1.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.7rc1.zip)|
-|cocos2d-x-3.7beta0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.7beta0.zip)|
-|cocos2d-x-3.5rc0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.5rc0.zip)|
-|cocos2d-x-3.7rc0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.7rc0.zip)|
-|cocos2d-x-3.2alpha0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.2alpha0.zip)|
-|cocos2d-x-3.1rc0|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.1rc0)|
 |cocos2d-x-3.9rc0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.9rc0.zip)|
-|cocos2d-x-3.9RC0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.9RC0.zip)|
+|cocos2d-x-3.9beta0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.9beta0.zip)|
+|cocos2d-x-3.8.1.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.8.1.zip)|
+|cocos2d-x-3.8.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.8.zip)|
+|cocos2d-x-3.8-rc0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.8-rc0.zip)|
+|cocos2d-x-3.8beta0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.8beta0.zip)|
+|cocos2d-x-3.7.1.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.7.1.zip)|
+|cocos2d-x-3.7.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.7.zip)|
+|cocos2d-x-3.7rc1.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.7rc1.zip)|
+|cocos2d-x-3.7rc0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.7rc0.zip)|
+|cocos2d-x-3.7beta0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.7beta0.zip)|
+|cocos2d-x-3.6.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.6.zip)|
+|cocos2d-x-3.6beta0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.6beta0.zip)|
+|cocos2d-x-3.6alpha0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.6alpha0.zip)|
+|cocos2d-x-3.5.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.5.zip)|
+|cocos2d-x-3.5-tizen.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.5-tizen.zip)|
+|cocos2d-x-3.5rc0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.5rc0.zip)|
+|cocos2d-x-3.5beta0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.5beta0.zip)|
+|cocos2d-x-3.4.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.4.zip)|
+|cocos2d-x-3.4rc1.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.4rc1.zip)|
+|cocos2d-x-3.4rc0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.4rc0.zip)|
+|cocos2d-x-3.4beta0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.4beta0.zip)|
+|cocos2d-x-3.3.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.3.zip)|
+|cocos2d-x-3.3rc2.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.3rc2.zip)|
+|cocos2d-x-3.3rc1.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.3rc1.zip)|
+|cocos2d-x-3.3rc0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.3rc0.zip)|
+|cocos2d-x-3.3beta0|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.3beta0)|
+|cocos2d-x-3.2.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.2.zip)|
+|cocos2d-x-3.2rc0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.2rc0.zip)|
+|cocos2d-x-3.2alpha0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.2alpha0.zip)|
+|cocos2d-x-3.1.1.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.1.1.zip)|
+|cocos2d-x-3.1.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.1.zip)|
+|cocos2d-x-3.1rc0|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.1rc0)|
+|cocos2d-x-3.0-cn|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.0-cn)|
+|cocos2d-x-3.0rc2-cn|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.0rc2-cn)|
+|cocos2d-x-2.2.6.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-2.2.6.zip)|
+|cocos2d-x-2.2.4.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-2.2.4.zip)|
+|cocos2d-x-2.2.5.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-2.2.5.zip)|
 
 ####Cocos2d-js 引擎下载
 
 | 文件名 | 下载链接 |
 |:-------------| :----------------------------------: |
+|cocos2d-js-v3.7beta0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.7beta0.zip)|
 |cocos2d-js-v3.6.1.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.6.1.zip)|
 |cocos2d-js-v3.6.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.6.zip)|
-|cocos2d-js-v3.3.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.3.zip)|
-|cocos2d-js-v3.1.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.1.zip)|
-|cocos2d-js-v3.2-rc0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.2-rc0.zip)|
-|cocos2d-js-v3.0-rc2.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-rc2.zip)|
-|cocos2d-js-v3.0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0.zip)|
-|cocos2d-js-v3.5.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.5.zip)|
-|cocos2d-js-v3.2.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.2.zip)|
-|cocos2d-js-v3.0-beta.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-beta.zip)|
-|cocos2d-js-v3.3-rc0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.3-rc0.zip)|
-|cocos2d-js-v3.0-rc1.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-rc1.zip)|
-|cocos2d-js-v3.1-beta.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.1-beta.zip)|
-|cocos2d-js-v3.0-rc3.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-rc3.zip)|
-|cocos2d-js-v3.0-alpha2-zip-cncdn|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-alpha2-zip-cncdn)|
-|cocos2d-js-v3.0-rc0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-rc0.zip)|
-|cocos2d-js-v3.3-beta.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.3-beta.zip)|
 |cocos2d-js-v3.6-beta.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.6-beta.zip)|
-|cocos2d-js-v3.0-rc0-hotfix.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-rc0-hotfix.zip)|
+|cocos2d-js-v3.5.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.5.zip)|
 |cocos2d-js-v3.4-beta0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.4-beta0.zip)|
-|cocos2d-js-v3.7beta0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.7beta0.zip)|
+|cocos2d-js-v3.3.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.3.zip)|
+|cocos2d-js-v3.3-rc0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.3-rc0.zip)|
+|cocos2d-js-v3.3-beta.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.3-beta.zip)|
+|cocos2d-js-v3.2.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.2.zip)|
+|cocos2d-js-v3.2-rc0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.2-rc0.zip)|
+|cocos2d-js-v3.1.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.1.zip)|
+|cocos2d-js-v3.1-beta.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.1-beta.zip)|
+|cocos2d-js-v3.0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0.zip)|
 |cocos2d-js-v3.0-pre.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-pre.zip)|
+|cocos2d-js-v3.0-rc3.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-rc3.zip)|
+|cocos2d-js-v3.0-rc2.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-rc2.zip)|
+|cocos2d-js-v3.0-rc1.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-rc1.zip)|
+|cocos2d-js-v3.0-rc0-hotfix.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-rc0-hotfix.zip)|
+|cocos2d-js-v3.0-rc0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-rc0.zip)|
+|cocos2d-js-v3.0-beta.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-beta.zip)|
+|cocos2d-js-v3.0-alpha2-zip-cncdn|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-alpha2-zip-cncdn)|
 
 ####Cocos2d-js Lite 引擎下载
 
@@ -418,6 +420,17 @@
 
 | 文件名 | 下载链接 |
 |:-------------| :----------------------------------: |
+|CocosCreator-Lua-v1.0|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator-Lua-v1.0)|
+|CocosCreator_v1.2.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.2.0_mac)|
+|CocosCreator_v1.2.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.2.0_win)|
+|CocosCreator_v1.1.2_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.1.2_mac)|
+|CocosCreator_v1.1.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.1.2_win)|
+|CocosCreator_v1.1.1_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.1.1_win)|
+|CocosCreator_v1.1.1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.1.1_mac)|
+|CocosCreator_v1.1.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.1.0_win)|
+|CocosCreator_v1.1.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.1.0_mac)|
+|CocosCreator_v1.0.3_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.0.3_win)|
+|CocosCreator_v1.0.3_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.0.3_mac)|
 |CocosCreator_v1.0.2_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.0.2_mac)|
 |CocosCreator_v1.0.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.0.2_win)|
 |CocosCreator_v1.0.1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.0.1_mac)|
@@ -598,4 +611,4 @@ v2.0beta0 | v3.3rc0	| v3.1 |
 |QUBICLE		|[进入官网](http://www.minddesk.com/index.php)|付费|Windows/Mac
 |VoxelShop	|[进入官网](https://blackflux.com/node/11)|免费|Windows/Mac
 
-更新时间：2016-05-04 23:33:03
+更新时间：2016-08-16 17:20:09
