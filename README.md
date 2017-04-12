@@ -102,6 +102,9 @@
 
 | 文件名 | 下载链接 |
 |:-------------| :----------------------------------: |
+|cocos2d-x-3.14.1.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.14.1.zip)|
+|cocos2d-x-3.14.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.14.zip)|
+|cocos2d-x-3.14.1rc0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.14.1rc0.zip)|
 |cocos2d-x-3.13.1.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.13.1.zip)|
 |cocos2d-x-3.13.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.13.zip)|
 |cocos2d-x-3.12.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.12.zip)|
@@ -422,6 +425,18 @@
 
 | 文件名 | 下载链接 |
 |:-------------| :----------------------------------: |
+|CocosCreator_v1.4.2_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.4.2_mac)|
+|CocosCreator_v1.4.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.4.2_win)|
+|CocosCreator_v1.4.1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.4.1_mac)|
+|CocosCreator_v1.4.1_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.4.1_win)|
+|CocosCreator_v1.4.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.4.0_mac)|
+|CocosCreator_v1.4.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.4.0_win)|
+|CocosCreator_v1.3.3_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.3.3_mac)|
+|CocosCreator_v1.3.3_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.3.3_win)|
+|CocosCreator_v1.3.2_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.3.2_mac)|
+|CocosCreator_v1.3.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.3.2_win)|
+|CocosCreator_v1.3.1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.3.1_mac)|
+|CocosCreator_v1.3.1_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.3.1_win)|
 |CocosCreator_v1.3.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.3.0_mac)|
 |CocosCreator_v1.3.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.3.0_win)|
 |Creator-Lua-Support-1.1.3-mac|[点击下载](http://www.cocos2d-x.org/filedown/Creator-Lua-Support-1.1.3-mac)|
@@ -621,4 +636,4 @@ v2.0beta0 | v3.3rc0	| v3.1 |
 |QUBICLE		|[进入官网](http://www.minddesk.com/index.php)|付费|Windows/Mac
 |VoxelShop	|[进入官网](https://blackflux.com/node/11)|免费|Windows/Mac
 
-更新时间：2016-10-29 16:52:42
+更新时间：2017-04-12 17:28:05
