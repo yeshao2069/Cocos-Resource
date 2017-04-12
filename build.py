@@ -430,7 +430,7 @@ def _generate_download_md(file_name, dict, download_files, desc):
 	for k in dict:
 		# dict[k].sort()
 		# dict[k].reverse()
-		f.write("####" + k + '\n')
+		f.write("#### " + k + '\n')
 		_f_write_new_line(f)
 		f.write("| 文件名 | 下载链接 |\n|:-------------| :----------------------------------: |\n")
 		for file_name in dict[k]:
@@ -452,12 +452,12 @@ def _get_toc():
 		for line in f.readlines():
 			strLine = line.strip()
 			if line.find("####") != -1:
-				strLine = strLine.replace('####', '')
+				strLine = strLine.replace('#### ', '')
 				# print(line.strip())
 				toc[last3sharp].append(strLine)
 			elif line.find("###") != -1:
 				# print(line.strip())
-				strLine = strLine.replace('###', '')
+				strLine = strLine.replace('### ', '')
 				last3sharp = strLine
 				toc[last3sharp] = []
 	return toc
@@ -555,7 +555,7 @@ def generate_auto_files():
 	cocos2dx_engine = OrderedDict()
 	cocos2dx_engine['Cocos2d-x 引擎下载'] = cocos2dx_cpp_download_file
 	cocos2dx_engine['Cocos2d-js 引擎下载'] = cocos2dx_js_download_file
-	_generate_download_md('auto/cocos2d-x-engine.md', cocos2dx_engine, cocos2dx_download_files, '###Cocos 引擎下载\n\n*从 v3.7 开始，Cocos2d-js 合并入 Cocos2d-x。*\n')
+	_generate_download_md('auto/cocos2d-x-engine.md', cocos2dx_engine, cocos2dx_download_files, '### Cocos 引擎下载\n\n*从 v3.7 开始，Cocos2d-js 合并入 Cocos2d-x。*\n')
 
 	cocos2dx_support_tools = OrderedDict()
 	cocos2dx_support_tools['Cocos 下载'] = cocos2dx_cocos_download_files
@@ -564,7 +564,7 @@ def generate_auto_files():
 	cocos2dx_support_tools['Cocos Simuator 下载'] = cocos2dx_simulator_download_files
 	cocos2dx_support_tools['Cocos IDE 下载'] = cocos2dx_ide_download_files
 	cocos2dx_support_tools['Cocos Creator 下载'] = cocos2dx_creator_download_files
-	_generate_download_md('auto/cocos2d-x-support-tools.md', cocos2dx_support_tools, cocos2dx_download_files, '###Cocos 配套工具下载\n')
+	_generate_download_md('auto/cocos2d-x-support-tools.md', cocos2dx_support_tools, cocos2dx_download_files, '### Cocos 配套工具下载\n')
 
 # Write README
 def generate_readme_md():

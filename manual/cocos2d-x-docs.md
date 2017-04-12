@@ -1,18 +1,18 @@
-###Cocos 文档相关
+### Cocos 文档相关
 
-####Cocos2d-x 中英文发布说明
+#### Cocos2d-x 中英文发布说明
 
 * GitBook 地址：[http://fusijie.github.io/Cocos2dx-Release-Note](http://fusijie.github.io/Cocos2dx-Release-Note)
 
 * Github 地址：[https://github.com/fusijie/Cocos2dx-Release-Note](https://github.com/fusijie/Cocos2dx-Release-Note)
 
-####Cocos2d-x 官方文档
+#### Cocos2d-x 官方文档
 
 * 在线版：[http://www.cocos2d-x.org/docs](http://www.cocos2d-x.org/docs)
 
 * 离线版：[https://github.com/chukong/cocos-docs](https://github.com/chukong/cocos-docs)
 
-####Cocos2d-x API 手册
+#### Cocos2d-x API 手册
 
 * 在线版：[http://www.cocos2d-x.org/docs/api-ref/index.html](http://www.cocos2d-x.org/docs/api-ref/index.html)
 
@@ -34,13 +34,13 @@
 	|v2.2.6	|[点击下载](http://pan.baidu.com/s/1pJJnFwZ) | C++/JS/Lua |
 	|v2.2.3	|[点击下载](http://pan.baidu.com/s/1pKhOXcR) | C++/JS/Lua |
 
-####Cocos Creator 官方文档
+#### Cocos Creator 官方文档
 
 英文版：[http://www.cocos2d-x.org/docs/editors_and_tools/creator/index.html](http://www.cocos2d-x.org/docs/editors_and_tools/creator/index.html)
 
 中文版：[http://www.cocos.com/docs/creator](http://www.cocos.com/docs/creator)
 
-####Cocos Creator API 手册
+#### Cocos Creator API 手册
 
 英文版：[http://www.cocos2d-x.org/docs/api-ref/index.html](http://www.cocos2d-x.org/docs/api-ref/index.html)
 
