@@ -46,9 +46,9 @@
 
 <!--TOC END-->
 
-###Cocos 文档相关
+### Cocos 文档相关
 
-####Cocos2d-x 中英文发布说明
+#### Cocos2d-x 中英文发布说明
 
 * GitBook 地址：[http://fusijie.github.io/Cocos2dx-Release-Note](http://fusijie.github.io/Cocos2dx-Release-Note)
 
