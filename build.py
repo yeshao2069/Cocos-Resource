@@ -89,7 +89,8 @@ cocos2dx_exclude_download_files = [
 'cocos2d-x-4.0alpha0.zip', 
 'cocos2d-x-4.0alpha1.zip',
 'cocos2d-x-2.2.4',
-'cocos2d-x-3.9RC0.zip'
+'cocos2d-x-3.9RC0.zip',
+'Cocos2d-x-API-v3.12'
 ]
 
 cocos2dx_framework_download_files = [
@@ -292,6 +293,18 @@ cocos2dx_cocos_download_files = [
 ]
 
 cocos2dx_creator_download_files = [
+'CocosCreator_v1.4.2_mac',
+'CocosCreator_v1.4.2_win',
+'CocosCreator_v1.4.1_mac',
+'CocosCreator_v1.4.1_win',
+'CocosCreator_v1.4.0_mac',
+'CocosCreator_v1.4.0_win',
+'CocosCreator_v1.3.3_mac',
+'CocosCreator_v1.3.3_win',
+'CocosCreator_v1.3.2_mac',
+'CocosCreator_v1.3.2_win',
+'CocosCreator_v1.3.1_mac',
+'CocosCreator_v1.3.1_win',
 'CocosCreator_v1.3.0_mac',
 'CocosCreator_v1.3.0_win',
 'Creator-Lua-Support-1.1.3-mac',
@@ -331,6 +344,9 @@ cocos2dx_simulator_download_files = [
 ]
 
 cocos2dx_cpp_download_file = [
+'cocos2d-x-3.14.1.zip',
+'cocos2d-x-3.14.zip',
+'cocos2d-x-3.14.1rc0.zip',
 'cocos2d-x-3.13.1.zip',
 'cocos2d-x-3.13.zip',
 'cocos2d-x-3.12.zip',
