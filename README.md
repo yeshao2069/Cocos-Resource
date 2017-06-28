@@ -104,6 +104,9 @@ Cocos 资料大全
 
 | 文件名 | 下载链接 |
 |:-------------| :----------------------------------: |
+|cocos2d-x-3.15.1.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.15.1.zip)|
+|cocos2d-x-3.15.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.15.zip)|
+|cocos2d-x-3.15rc0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.15rc0.zip)|
 |cocos2d-x-3.14.1.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.14.1.zip)|
 |cocos2d-x-3.14.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.14.zip)|
 |cocos2d-x-3.14.1rc0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.14.1rc0.zip)|
@@ -190,6 +193,10 @@ Cocos 资料大全
 
  文件名| 下载链接 |
 |:-------------| :----------------------------------:|
+|quick-cocos2d-x-community-v3.6.5|[点击下载](https://github.com/u0u0/Quick-Cocos2dx-Community/releases/tag/3.6.5_Release)
+|quick-cocos2d-x-community-v3.6.4|[点击下载](https://github.com/u0u0/Quick-Cocos2dx-Community/releases/tag/3.6.4_Release)
+|quick-cocos2d-x-community-v3.6.3|[点击下载](https://github.com/u0u0/Quick-Cocos2dx-Community/releases/tag/3.6.3_release)
+|quick-cocos2d-x-community-v3.6.2|[点击下载](https://github.com/u0u0/Quick-Cocos2dx-Community/releases/tag/3.6.2_Release)
 |quick-cocos2d-x-community-v3.6.1|[点击下载](https://github.com/iTyran/Quick-Cocos2dx-Community/releases/tag/3.6.1_Release)
 |quick-cocos2d-x-community-v3.6|[点击下载](https://github.com/iTyran/Quick-Cocos2dx-Community/releases/tag/3.6_release)
 |quick-cocos2d-x-v3.3|[点击下载](https://github.com/dualface/v3quick/releases/tag/quick-cocos2d-x-v3.3)
@@ -427,6 +434,10 @@ Cocos 资料大全
 
 | 文件名 | 下载链接 |
 |:-------------| :----------------------------------: |
+|CocosCreator_v1.5.1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.5.1_mac)|
+|CocosCreator_v1.5.1_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.5.1_win)|
+|CocosCreator_v1.5.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.5.0_mac)|
+|CocosCreator_v1.5.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.5.0_win)|
 |CocosCreator_v1.4.2_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.4.2_mac)|
 |CocosCreator_v1.4.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.4.2_win)|
 |CocosCreator_v1.4.1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.4.1_mac)|
@@ -638,4 +649,4 @@ v2.0beta0 | v3.3rc0	| v3.1 |
 |QUBICLE		|[进入官网](http://www.minddesk.com/index.php)|付费|Windows/Mac
 |VoxelShop	|[进入官网](https://blackflux.com/node/11)|免费|Windows/Mac
 
-更新时间：2017-04-12 17:58:04
+更新时间：2017-06-29 00:07:43
