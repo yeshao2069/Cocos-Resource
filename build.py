@@ -293,6 +293,10 @@ cocos2dx_cocos_download_files = [
 ]
 
 cocos2dx_creator_download_files = [
+'CocosCreator_v1.5.1_mac',
+'CocosCreator_v1.5.1_win',
+'CocosCreator_v1.5.0_mac',
+'CocosCreator_v1.5.0_win',
 'CocosCreator_v1.4.2_mac',
 'CocosCreator_v1.4.2_win',
 'CocosCreator_v1.4.1_mac',
@@ -344,6 +348,9 @@ cocos2dx_simulator_download_files = [
 ]
 
 cocos2dx_cpp_download_file = [
+'cocos2d-x-3.15.1.zip',
+'cocos2d-x-3.15.zip',
+'cocos2d-x-3.15rc0.zip',
 'cocos2d-x-3.14.1.zip',
 'cocos2d-x-3.14.zip',
 'cocos2d-x-3.14.1rc0.zip',

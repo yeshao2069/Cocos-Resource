@@ -8,6 +8,10 @@
 
  文件名| 下载链接 |
 |:-------------| :----------------------------------:|
+|quick-cocos2d-x-community-v3.6.5|[点击下载](https://github.com/u0u0/Quick-Cocos2dx-Community/releases/tag/3.6.5_Release)
+|quick-cocos2d-x-community-v3.6.4|[点击下载](https://github.com/u0u0/Quick-Cocos2dx-Community/releases/tag/3.6.4_Release)
+|quick-cocos2d-x-community-v3.6.3|[点击下载](https://github.com/u0u0/Quick-Cocos2dx-Community/releases/tag/3.6.3_release)
+|quick-cocos2d-x-community-v3.6.2|[点击下载](https://github.com/u0u0/Quick-Cocos2dx-Community/releases/tag/3.6.2_Release)
 |quick-cocos2d-x-community-v3.6.1|[点击下载](https://github.com/iTyran/Quick-Cocos2dx-Community/releases/tag/3.6.1_Release)
 |quick-cocos2d-x-community-v3.6|[点击下载](https://github.com/iTyran/Quick-Cocos2dx-Community/releases/tag/3.6_release)
 |quick-cocos2d-x-v3.3|[点击下载](https://github.com/dualface/v3quick/releases/tag/quick-cocos2d-x-v3.3)
