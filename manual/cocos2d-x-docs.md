@@ -20,19 +20,24 @@
 	
 	| Cocos2d-x 版本 | 下载地址 | 支持语言 |
 	|:---:|:---:|:---:|
-	|v3.10		|[点击下载](http://pan.baidu.com/s/1kUfpCmr) | C++/JS/Lua |
-	|v3.9		|[点击下载](http://pan.baidu.com/s/1eQRSDH4) | C++/JS/Lua |
-	|v3.8		|[点击下载](http://pan.baidu.com/s/1hqXUhdq) | C++/JS/Lua |
-	|v3.7		|[点击下载](http://pan.baidu.com/s/1kUuiUJt) | C++/JS/Lua |
-	|v3.6		|[点击下载](http://pan.baidu.com/s/1eQEQKrK) | C++/JS/Lua |
-	|v3.5		|[点击下载](http://pan.baidu.com/s/1eQjbJ0Y) | C++/JS/Lua |
-	|v3.4		|[点击下载](http://pan.baidu.com/s/1kTh3VJT) | C++/JS/Lua |
-	|v3.3		|[点击下载](http://pan.baidu.com/s/1qW2WA1A) | C++/JS/Lua |
-	|v3.2		|[点击下载](http://pan.baidu.com/s/1kT3ODJx) | C++/JS/Lua |
-	|v3.1		|[点击下载](http://pan.baidu.com/s/1bn0Hevt) | C++/JS/Lua |
-	|v3.0		|[点击下载](http://pan.baidu.com/s/1gdYBU6n) | C++/JS/Lua |
-	|v2.2.6	|[点击下载](http://pan.baidu.com/s/1pJJnFwZ) | C++/JS/Lua |
-	|v2.2.3	|[点击下载](http://pan.baidu.com/s/1pKhOXcR) | C++/JS/Lua |
+	|v3.15		|[点击下载](https://pan.baidu.com/s/1gfimQxP) | C++/JS/Lua |
+	|v3.14		|[点击下载](https://pan.baidu.com/s/1jHVV1dG) | C++/JS/Lua |
+	|v3.13		|[点击下载](https://pan.baidu.com/s/1boJs9zx) | C++/JS/Lua |
+	|v3.12		|[点击下载](https://pan.baidu.com/s/1dEI82UP) | C++/JS/Lua |
+	|v3.11		|[点击下载](https://pan.baidu.com/s/1nvp2iz3) | C++/JS/Lua |
+	|v3.10		|[点击下载](https://pan.baidu.com/s/1kUfpCmr) | C++/JS/Lua |
+	|v3.9		|[点击下载](https://pan.baidu.com/s/1eQRSDH4) | C++/JS/Lua |
+	|v3.8		|[点击下载](https://pan.baidu.com/s/1hqXUhdq) | C++/JS/Lua |
+	|v3.7		|[点击下载](https://pan.baidu.com/s/1kUuiUJt) | C++/JS/Lua |
+	|v3.6		|[点击下载](https://pan.baidu.com/s/1eQEQKrK) | C++/JS/Lua |
+	|v3.5		|[点击下载](https://pan.baidu.com/s/1eQjbJ0Y) | C++/JS/Lua |
+	|v3.4		|[点击下载](https://pan.baidu.com/s/1kTh3VJT) | C++/JS/Lua |
+	|v3.3		|[点击下载](https://pan.baidu.com/s/1qW2WA1A) | C++/JS/Lua |
+	|v3.2		|[点击下载](https://pan.baidu.com/s/1kT3ODJx) | C++/JS/Lua |
+	|v3.1		|[点击下载](https://pan.baidu.com/s/1bn0Hevt) | C++/JS/Lua |
+	|v3.0		|[点击下载](https://pan.baidu.com/s/1gdYBU6n) | C++/JS/Lua |
+	|v2.2.6	|[点击下载](https://pan.baidu.com/s/1pJJnFwZ) | C++/JS/Lua |
+	|v2.2.3	|[点击下载](https://pan.baidu.com/s/1pKhOXcR) | C++/JS/Lua |
 
 #### Cocos Creator 官方文档
 
