@@ -293,6 +293,12 @@ cocos2dx_cocos_download_files = [
 ]
 
 cocos2dx_creator_download_files = [
+'CocosCreator_v1.6.1_win',
+'CocosCreator_v1.6.1_mac',
+'CocosCreator_v1.6.0_win',
+'CocosCreator_v1.6.0_mac',
+'CocosCreator_v1.5.2_mac',
+'CocosCreator_v1.5.2_win',
 'CocosCreator_v1.5.1_mac',
 'CocosCreator_v1.5.1_win',
 'CocosCreator_v1.5.0_mac',
