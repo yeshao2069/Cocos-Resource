@@ -439,6 +439,12 @@ Cocos 资料大全
 
 | 文件名 | 下载链接 |
 |:-------------| :----------------------------------: |
+|CocosCreator_v1.6.1_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.6.1_win)|
+|CocosCreator_v1.6.1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.6.1_mac)|
+|CocosCreator_v1.6.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.6.0_win)|
+|CocosCreator_v1.6.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.6.0_mac)|
+|CocosCreator_v1.5.2_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.5.2_mac)|
+|CocosCreator_v1.5.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.5.2_win)|
 |CocosCreator_v1.5.1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.5.1_mac)|
 |CocosCreator_v1.5.1_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.5.1_win)|
 |CocosCreator_v1.5.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.5.0_mac)|
@@ -654,4 +660,4 @@ v2.0beta0 | v3.3rc0	| v3.1 |
 |QUBICLE		|[进入官网](http://www.minddesk.com/index.php)|付费|Windows/Mac
 |VoxelShop	|[进入官网](https://blackflux.com/node/11)|免费|Windows/Mac
 
-更新时间：2017-06-29 10:54:58
+更新时间：2017-09-01 16:48:00
