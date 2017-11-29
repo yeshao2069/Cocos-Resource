@@ -59,6 +59,7 @@
 |cfxr		|[进入官网](http://thirdcog.eu/apps/cfxr/)|开源|Mac
 |bfxr		|[进入官网](http://www.bfxr.net/)|免费|Windows/Mac/Online
 |Labchirp	|[进入官网](http://labbed.net/software.php?id=labchirp)|免费|Windows
+|Sound Studio |[进入官网](http://felttip.com/ss/)|免费|Mac
 
 #### 背景音乐编辑工具
 
