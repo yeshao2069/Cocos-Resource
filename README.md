@@ -8,6 +8,7 @@
 
 <!--TOC BEGIN-->
 
+- [Cocos 资料大全](#cocos-%E8%B5%84%E6%96%99%E5%A4%A7%E5%85%A8)
 - [Cocos 文档相关](#cocos-%E6%96%87%E6%A1%A3%E7%9B%B8%E5%85%B3)
 	- [Cocos2d-x 中英文发布说明](#cocos2d-x-%E4%B8%AD%E8%8B%B1%E6%96%87%E5%8F%91%E5%B8%83%E8%AF%B4%E6%98%8E)
 	- [Cocos2d-x 官方文档](#cocos2d-x-%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3)
@@ -441,6 +442,12 @@
 
 | 文件名 | 下载链接 |
 |:-------------| :----------------------------------: |
+|CocosCreator_v1.8.1_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.8.1_win)|
+|CocosCreator_v1.8.1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.8.1_mac)|
+|CocosCreator_v1.8.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.8.0_win)|
+|CocosCreator_v1.8.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.8.0_mac)|
+|CocosCreator_v1.7.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.7.2_win)|
+|CocosCreator_v1.7.2_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.7.2_mac)|
 |CocosCreator_v1.7.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.7.0_win)|
 |CocosCreator_v1.7.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.7.0_mac)|
 |CocosCreator_v1.6.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.6.2_win)|
@@ -667,4 +674,4 @@ v2.0beta0 | v3.3rc0	| v3.1 |
 |QUBICLE		|[进入官网](http://www.minddesk.com/index.php)|付费|Windows/Mac
 |VoxelShop	|[进入官网](https://blackflux.com/node/11)|免费|Windows/Mac
 
-更新时间：2017-11-29 14:52:34
+更新时间：2018-02-09 17:18:24
