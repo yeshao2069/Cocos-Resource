@@ -204,6 +204,11 @@
 
  文件名| 下载链接 |
 |:-------------| :----------------------------------:|
+|quick-cocos2d-x-community-v3.7.4|[点击下载](https://github.com/u0u0/Quick-Cocos2dx-Community/releases/tag/3.7.4_Release)
+|quick-cocos2d-x-community-v3.7.3|[点击下载](https://github.com/u0u0/Quick-Cocos2dx-Community/releases/tag/3.7.3_Release)
+|quick-cocos2d-x-community-v3.7.2|[点击下载](https://github.com/u0u0/Quick-Cocos2dx-Community/releases/tag/3.7.2_Release)
+|quick-cocos2d-x-community-v3.7.1|[点击下载](https://github.com/u0u0/Quick-Cocos2dx-Community/releases/tag/3.7.1_Release)
+|quick-cocos2d-x-community-v3.7.0|[点击下载](https://github.com/u0u0/Quick-Cocos2dx-Community/releases/tag/3.7.0_Release)
 |quick-cocos2d-x-community-v3.6.5|[点击下载](https://github.com/u0u0/Quick-Cocos2dx-Community/releases/tag/3.6.5_Release)
 |quick-cocos2d-x-community-v3.6.4|[点击下载](https://github.com/u0u0/Quick-Cocos2dx-Community/releases/tag/3.6.4_Release)
 |quick-cocos2d-x-community-v3.6.3|[点击下载](https://github.com/u0u0/Quick-Cocos2dx-Community/releases/tag/3.6.3_release)
@@ -715,4 +720,4 @@ v2.0beta0 | v3.3rc0	| v3.1 |
 |QUBICLE		|[进入官网](http://www.minddesk.com/index.php)|付费|Windows/Mac
 |VoxelShop	|[进入官网](https://blackflux.com/node/11)|免费|Windows/Mac
 
-更新时间：2019-01-23 11:58:46
+更新时间：2019-01-23 12:08:51
