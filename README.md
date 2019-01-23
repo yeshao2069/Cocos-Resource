@@ -21,12 +21,13 @@
 	- [Cocos2d-js Lite 引擎下载](#cocos2d-js-lite-%E5%BC%95%E6%93%8E%E4%B8%8B%E8%BD%BD)
 	- [Quick-cocos2d-x 引擎下载](#quick-cocos2d-x-%E5%BC%95%E6%93%8E%E4%B8%8B%E8%BD%BD)
 - [Cocos 配套工具下载](#cocos-%E9%85%8D%E5%A5%97%E5%B7%A5%E5%85%B7%E4%B8%8B%E8%BD%BD)
+	- [Cocos Creator v1 下载](#cocos-creator-v1-%E4%B8%8B%E8%BD%BD)
+	- [Cocos Creator v2 下载](#cocos-creator-v2-%E4%B8%8B%E8%BD%BD)
 	- [Cocos 下载](#cocos-%E4%B8%8B%E8%BD%BD)
 	- [Cocos Studio 下载](#cocos-studio-%E4%B8%8B%E8%BD%BD)
 	- [Cocos FrameWork 下载](#cocos-framework-%E4%B8%8B%E8%BD%BD)
 	- [Cocos Simuator 下载](#cocos-simuator-%E4%B8%8B%E8%BD%BD)
 	- [Cocos IDE 下载](#cocos-ide-%E4%B8%8B%E8%BD%BD)
-	- [Cocos Creator 下载](#cocos-creator-%E4%B8%8B%E8%BD%BD)
 - [Cocos 版本关系说明](#cocos-%E7%89%88%E6%9C%AC%E5%85%B3%E7%B3%BB%E8%AF%B4%E6%98%8E)
 	- [Cocos2d-x 与 Cocos Studio 版本对应关系](#cocos2d-x-%E4%B8%8E-cocos-studio-%E7%89%88%E6%9C%AC%E5%AF%B9%E5%BA%94%E5%85%B3%E7%B3%BB)
 	- [Cocos2d-x 与 NDK 版本对应关系](#cocos2d-x-%E4%B8%8E-ndk-%E7%89%88%E6%9C%AC%E5%AF%B9%E5%BA%94%E5%85%B3%E7%B3%BB)
@@ -111,6 +112,7 @@
 
 | 文件名 | 下载链接 |
 |:-------------| :----------------------------------: |
+|cocos2d-x-3.17.1|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.17.1)|
 |cocos2d-x-3.17.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.17.zip)|
 |cocos2d-x-3.16.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.16.zip)|
 |cocos2d-x-3.15.1.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.15.1.zip)|
@@ -224,6 +226,112 @@
 |quick-cocos2d-x-v2.1.4-20130808|[点击下载](https://github.com/chukong/quick-cocos2d-x/releases/tag/stable-2.1.4-20130808)
 
 ### Cocos 配套工具下载
+
+#### Cocos Creator v1 下载
+
+| 文件名 | 下载链接 |
+|:-------------| :----------------------------------: |
+|CocosCreator_v1.10.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.10.2_win)|
+|CocosCreator_v1.10.2_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.10.2_mac)|
+|CocosCreator_v1.10.1_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.10.1_win)|
+|CocosCreator_v1.10.1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.10.1_mac)|
+|CocosCreator_v1.10.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.10.0_win)|
+|CocosCreator_v1.10.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.10.0_mac)|
+|CocosCreator_1.9.3_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_1.9.3_win)|
+|CocosCreator_v1.9.3_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.9.3_mac)|
+|CocosCreator_v1.9.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.9.2_win)|
+|CocosCreator_v1.9.2_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.9.2_mac)|
+|CocosCreator_v1.9.1_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.9.1_win)|
+|CocosCreator_v1.9.1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.9.1_mac)|
+|CocosCreator_v1.9.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.9.0_win)|
+|CocosCreator_v1.9.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.9.0_mac)|
+|CocosCreator_v1.9.0-rc1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.9.0-rc1_mac)|
+|CocosCreator_v1.8.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.8.2_win)|
+|CocosCreator_v1.8.2_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.8.2_mac)|
+|CocosCreator_v1.8.1_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.8.1_win)|
+|CocosCreator_v1.8.1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.8.1_mac)|
+|CocosCreator_v1.8.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.8.0_win)|
+|CocosCreator_v1.8.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.8.0_mac)|
+|CocosCreator_v1.7.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.7.2_win)|
+|CocosCreator_v1.7.2_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.7.2_mac)|
+|CocosCreator_v1.7.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.7.0_win)|
+|CocosCreator_v1.7.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.7.0_mac)|
+|CocosCreator_v1.6.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.6.2_win)|
+|CocosCreator_v1.6.2_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.6.2_mac)|
+|CocosCreator_v1.6.1_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.6.1_win)|
+|CocosCreator_v1.6.1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.6.1_mac)|
+|CocosCreator_v1.6.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.6.0_win)|
+|CocosCreator_v1.6.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.6.0_mac)|
+|CocosCreator_v1.5.2_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.5.2_mac)|
+|CocosCreator_v1.5.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.5.2_win)|
+|CocosCreator_v1.5.1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.5.1_mac)|
+|CocosCreator_v1.5.1_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.5.1_win)|
+|CocosCreator_v1.5.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.5.0_mac)|
+|CocosCreator_v1.5.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.5.0_win)|
+|CocosCreator_v1.4.2_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.4.2_mac)|
+|CocosCreator_v1.4.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.4.2_win)|
+|CocosCreator_v1.4.1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.4.1_mac)|
+|CocosCreator_v1.4.1_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.4.1_win)|
+|CocosCreator_v1.4.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.4.0_mac)|
+|CocosCreator_v1.4.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.4.0_win)|
+|CocosCreator_v1.3.3_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.3.3_mac)|
+|CocosCreator_v1.3.3_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.3.3_win)|
+|CocosCreator_v1.3.2_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.3.2_mac)|
+|CocosCreator_v1.3.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.3.2_win)|
+|CocosCreator_v1.3.1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.3.1_mac)|
+|CocosCreator_v1.3.1_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.3.1_win)|
+|CocosCreator_v1.3.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.3.0_mac)|
+|CocosCreator_v1.3.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.3.0_win)|
+|Creator-Lua-Support-1.1.3-mac|[点击下载](http://www.cocos2d-x.org/filedown/Creator-Lua-Support-1.1.3-mac)|
+|Creator-Lua-Support-1.1.3-win|[点击下载](http://www.cocos2d-x.org/filedown/Creator-Lua-Support-1.1.3-win)|
+|CocosCreator_v1.2.2_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.2.2_mac)|
+|CocosCreator_v1.2.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.2.2_win)|
+|CocosCreator_v1.2.1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.2.1_mac)|
+|CocosCreator_v1.2.1_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.2.1_win)|
+|CocosCreator-Lua-v1.0|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator-Lua-v1.0)|
+|CocosCreator_v1.2.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.2.0_mac)|
+|CocosCreator_v1.2.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.2.0_win)|
+|CocosCreator_v1.1.2_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.1.2_mac)|
+|CocosCreator_v1.1.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.1.2_win)|
+|CocosCreator_v1.1.1_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.1.1_win)|
+|CocosCreator_v1.1.1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.1.1_mac)|
+|CocosCreator_v1.1.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.1.0_win)|
+|CocosCreator_v1.1.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.1.0_mac)|
+|CocosCreator_v1.0.3_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.0.3_win)|
+|CocosCreator_v1.0.3_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.0.3_mac)|
+|CocosCreator_v1.0.2_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.0.2_mac)|
+|CocosCreator_v1.0.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.0.2_win)|
+|CocosCreator_v1.0.1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.0.1_mac)|
+|CocosCreator_v1.0.1_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.0.1_win)|
+|CocosCreator_v1.0.0_win_en|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.0.0_win_en)|
+|CocosCreator_v1.0.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.0.0_win)|
+|CocosCreator_v1.0.0_mac_en|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.0.0_mac_en)|
+|CocosCreator_v1.0.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.0.0_mac)|
+|CocosCreator_v0.7.1_win_en|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v0.7.1_win_en)|
+|CocosCreator_v0.7.1_mac_en|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v0.7.1_mac_en)|
+|CocosCreator_v0.7.0_mac.zip|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v0.7.0_mac.zip)|
+|CocosCreator_v0.7.0_win.zip|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v0.7.0_win.zip)|
+
+#### Cocos Creator v2 下载
+
+| 文件名 | 下载链接 |
+|:-------------| :----------------------------------: |
+|CocosCreator_v2.1.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.1.0_win)|
+|CocosCreator_v2.1.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.1.0_mac)|
+|CocosCreator_v2.0.7_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.0.7_win)|
+|CocosCreator_v2.0.7_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.0.7_mac)|
+|CocosCreator_v2.0.6_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.0.6_win)|
+|CocosCreator_v2.0.6_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.0.6_mac)|
+|CocosCreator_v2.0.5_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.0.5_win)|
+|CocosCreator_v2.0.5_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.0.5_mac)|
+|CocosCreator_v2.0.4_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.0.4_win)|
+|CocosCreator_v2.0.4_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.0.4_mac)|
+|CocosCreator_v2.0.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.0.2_win)|
+|CocosCreator_v2.0.2_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.0.2_mac)|
+|CocosCreator_v2.0.1_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.0.1_win)|
+|CocosCreator_v2.0.1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.0.1_mac)|
+|CocosCreator_v2.0.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.0.0_win)|
+|CocosCreator_v2.0.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.0.0_mac)|
 
 #### Cocos 下载
 
@@ -439,83 +547,6 @@
 |cocos-code-ide-win64-1.0.0-final.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.0.0-final.zip)|
 |cocos-intellij-plugin-2.0.0-beta.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos-intellij-plugin-2.0.0-beta.zip)|
 
-#### Cocos Creator 下载
-
-| 文件名 | 下载链接 |
-|:-------------| :----------------------------------: |
-|CocosCreator_v1.9.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.9.2_win)|
-|CocosCreator_v1.9.2_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.9.2_mac)|
-|CocosCreator_v1.9.1_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.9.1_win)|
-|CocosCreator_v1.9.1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.9.1_mac)|
-|CocosCreator_v1.9.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.9.0_win)|
-|CocosCreator_v1.9.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.9.0_mac)|
-|CocosCreator_v1.9.0-rc1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.9.0-rc1_mac)|
-|CocosCreator_v1.8.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.8.2_win)|
-|CocosCreator_v1.8.2_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.8.2_mac)|
-|CocosCreator_v1.8.1_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.8.1_win)|
-|CocosCreator_v1.8.1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.8.1_mac)|
-|CocosCreator_v1.8.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.8.0_win)|
-|CocosCreator_v1.8.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.8.0_mac)|
-|CocosCreator_v1.7.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.7.2_win)|
-|CocosCreator_v1.7.2_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.7.2_mac)|
-|CocosCreator_v1.7.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.7.0_win)|
-|CocosCreator_v1.7.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.7.0_mac)|
-|CocosCreator_v1.6.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.6.2_win)|
-|CocosCreator_v1.6.2_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.6.2_mac)|
-|CocosCreator_v1.6.1_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.6.1_win)|
-|CocosCreator_v1.6.1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.6.1_mac)|
-|CocosCreator_v1.6.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.6.0_win)|
-|CocosCreator_v1.6.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.6.0_mac)|
-|CocosCreator_v1.5.2_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.5.2_mac)|
-|CocosCreator_v1.5.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.5.2_win)|
-|CocosCreator_v1.5.1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.5.1_mac)|
-|CocosCreator_v1.5.1_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.5.1_win)|
-|CocosCreator_v1.5.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.5.0_mac)|
-|CocosCreator_v1.5.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.5.0_win)|
-|CocosCreator_v1.4.2_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.4.2_mac)|
-|CocosCreator_v1.4.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.4.2_win)|
-|CocosCreator_v1.4.1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.4.1_mac)|
-|CocosCreator_v1.4.1_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.4.1_win)|
-|CocosCreator_v1.4.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.4.0_mac)|
-|CocosCreator_v1.4.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.4.0_win)|
-|CocosCreator_v1.3.3_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.3.3_mac)|
-|CocosCreator_v1.3.3_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.3.3_win)|
-|CocosCreator_v1.3.2_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.3.2_mac)|
-|CocosCreator_v1.3.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.3.2_win)|
-|CocosCreator_v1.3.1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.3.1_mac)|
-|CocosCreator_v1.3.1_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.3.1_win)|
-|CocosCreator_v1.3.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.3.0_mac)|
-|CocosCreator_v1.3.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.3.0_win)|
-|Creator-Lua-Support-1.1.3-mac|[点击下载](http://www.cocos2d-x.org/filedown/Creator-Lua-Support-1.1.3-mac)|
-|Creator-Lua-Support-1.1.3-win|[点击下载](http://www.cocos2d-x.org/filedown/Creator-Lua-Support-1.1.3-win)|
-|CocosCreator_v1.2.2_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.2.2_mac)|
-|CocosCreator_v1.2.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.2.2_win)|
-|CocosCreator_v1.2.1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.2.1_mac)|
-|CocosCreator_v1.2.1_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.2.1_win)|
-|CocosCreator-Lua-v1.0|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator-Lua-v1.0)|
-|CocosCreator_v1.2.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.2.0_mac)|
-|CocosCreator_v1.2.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.2.0_win)|
-|CocosCreator_v1.1.2_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.1.2_mac)|
-|CocosCreator_v1.1.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.1.2_win)|
-|CocosCreator_v1.1.1_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.1.1_win)|
-|CocosCreator_v1.1.1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.1.1_mac)|
-|CocosCreator_v1.1.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.1.0_win)|
-|CocosCreator_v1.1.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.1.0_mac)|
-|CocosCreator_v1.0.3_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.0.3_win)|
-|CocosCreator_v1.0.3_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.0.3_mac)|
-|CocosCreator_v1.0.2_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.0.2_mac)|
-|CocosCreator_v1.0.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.0.2_win)|
-|CocosCreator_v1.0.1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.0.1_mac)|
-|CocosCreator_v1.0.1_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.0.1_win)|
-|CocosCreator_v1.0.0_win_en|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.0.0_win_en)|
-|CocosCreator_v1.0.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.0.0_win)|
-|CocosCreator_v1.0.0_mac_en|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.0.0_mac_en)|
-|CocosCreator_v1.0.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v1.0.0_mac)|
-|CocosCreator_v0.7.1_win_en|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v0.7.1_win_en)|
-|CocosCreator_v0.7.1_mac_en|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v0.7.1_mac_en)|
-|CocosCreator_v0.7.0_mac.zip|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v0.7.0_mac.zip)|
-|CocosCreator_v0.7.0_win.zip|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v0.7.0_win.zip)|
-
 ### Cocos 版本关系说明
 
 #### Cocos2d-x 与 Cocos Studio 版本对应关系
@@ -684,4 +715,4 @@ v2.0beta0 | v3.3rc0	| v3.1 |
 |QUBICLE		|[进入官网](http://www.minddesk.com/index.php)|付费|Windows/Mac
 |VoxelShop	|[进入官网](https://blackflux.com/node/11)|免费|Windows/Mac
 
-更新时间：2018-06-24 12:04:56
+更新时间：2019-01-23 11:58:46
