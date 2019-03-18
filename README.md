@@ -1,8 +1,6 @@
-### Cocos 资料大全
+<h1 align="center">Cocos 资料大全</h1>
 
----
-
-**本文定期更新，欢迎提交PR，托管在[Cocos-Resource Github](https://github.com/fusijie/Cocos-Resource)。如果下载跳转地址异常，说明原始下载包已被官方移除。**
+<h5 align="center">本文定期更新，欢迎提交PR，托管在[Cocos-Resource Github](https://github.com/fusijie/Cocos-Resource)。如果下载跳转地址异常，说明原始下载包已被官方移除。</h5>
 
 <!--TOC BEGIN-->
 
