@@ -87,15 +87,15 @@
 
 ### Cocos Creator 官方文档
 
-英文版：[点击进入](https://docs.cocos.com/creator/manual/en)
+* 英文版：[点击进入](https://docs.cocos.com/creator/manual/en)
 
-中文版：[点击进入](https://docs.cocos.com/creator/manual/zh)
+* 中文版：[点击进入](https://docs.cocos.com/creator/manual/zh)
 
 ### Cocos Creator API 手册
 
-英文版：[点击进入](https://docs.cocos.com/creator/api/en)
+* 英文版：[点击进入](https://docs.cocos.com/creator/api/en)
 
-中文版：[点击进入](https://docs.cocos.com/creator/api/zh)
+* 中文版：[点击进入](https://docs.cocos.com/creator/api/zh)
 
 ## Cocos 引擎下载
 
