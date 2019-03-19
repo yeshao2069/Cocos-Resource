@@ -189,11 +189,11 @@
 |cocos2d-js-v3.0-alpha2-zip-cncdn|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-alpha2-zip-cncdn)|
 
 ### Cocos Creator 引擎下载
-* [点击进入](https://github.com/cocos-creator/engine)
+* Github 开源：[https://github.com/cocos-creator/engine](https://github.com/cocos-creator/engine)
 
 ### Cocos2d-js Lite 引擎下载
 
-* 在线生成：[http://cocos2d-x.org/filecenter/jsbuilder/](http://cocos2d-x.org/filecenter/jsbuilder/)
+* 在线生成：[http://cocos2d-x.org/filecenter/jsbuilder](http://cocos2d-x.org/filecenter/jsbuilder/)
 
 ### Quick-cocos2d-x 引擎下载
 
