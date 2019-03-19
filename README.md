@@ -56,11 +56,11 @@
 
 ### Cocos2d-x 官方文档
 
-* 在线版：[https://docs.cocos.com/cocos2d-x/manual/zh](https://docs.cocos.com/cocos2d-x/manual/zh)
+* 在线版：[点击进入](https://docs.cocos.com/cocos2d-x/manual/zh)
 
 ### Cocos2d-x API 手册
 
-* 在线版：[http://www.cocos2d-x.org/docs/api-ref/index.html](http://www.cocos2d-x.org/docs/api-ref/index.html)
+* 在线版：[点击进入](http://www.cocos2d-x.org/docs/api-ref/index.html)
 
 * 离线版：
 	
@@ -87,15 +87,15 @@
 
 ### Cocos Creator 官方文档
 
-英文版：[https://docs.cocos.com/creator/manual/en](https://docs.cocos.com/creator/manual/en)
+英文版：[点击进入](https://docs.cocos.com/creator/manual/en)
 
-中文版：[https://docs.cocos.com/creator/manual/zh](https://docs.cocos.com/creator/manual/zh)
+中文版：[点击进入](https://docs.cocos.com/creator/manual/zh)
 
 ### Cocos Creator API 手册
 
-英文版：[https://docs.cocos.com/creator/api/en](https://docs.cocos.com/creator/api/en)
+英文版：[点击进入](https://docs.cocos.com/creator/api/en)
 
-中文版：[https://docs.cocos.com/creator/api/zh](https://docs.cocos.com/creator/api/zh)
+中文版：[点击进入](https://docs.cocos.com/creator/api/zh)
 
 ## Cocos 引擎下载
 
