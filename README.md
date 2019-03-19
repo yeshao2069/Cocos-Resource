@@ -4,7 +4,6 @@
 
 <!--TOC BEGIN-->
 
-- [Cocos 资料大全](#cocos-%E8%B5%84%E6%96%99%E5%A4%A7%E5%85%A8)
 - [Cocos 文档相关](#cocos-%E6%96%87%E6%A1%A3%E7%9B%B8%E5%85%B3)
 	- [Cocos2d-x 中英文发布说明](#cocos2d-x-%E4%B8%AD%E8%8B%B1%E6%96%87%E5%8F%91%E5%B8%83%E8%AF%B4%E6%98%8E)
 	- [Cocos2d-x 官方文档](#cocos2d-x-%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3)
