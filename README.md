@@ -632,6 +632,7 @@ v2.0beta0 | v3.3rc0	| v3.1 |
 
 | 工具名 | 下载地址 | 授权 | 支持平台 | 
 |:---:|:---:|:---:|:---:|
+|Excel2js			|[进入官网](https://github.com/fusijie/excel2js)|开源|Windows/Mac
 |行为树可视化编辑插件	|[进入官网](https://github.com/linhaiwei123/cocos-creator-behavior-tree-editor)|开源|Windows/Mac
 |Unpack TextureAtlas	|[进入官网](https://github.com/zilongshanren/unpack-textureatlas)|开源|Windows/Mac
 |Hot-update-tools		|[进入官网](https://github.com/tidys/CocosCreatorPlugins/tree/master/packages/hot-update-tools)|开源|Windows/Mac
