@@ -32,6 +32,7 @@
 	- [Android Studio 下载](#android-studio-%E4%B8%8B%E8%BD%BD)
 	- [Android ADT Bundle 下载](#android-adt-bundle-%E4%B8%8B%E8%BD%BD)
 - [Cocos 第三方游戏工具下载](#cocos-%E7%AC%AC%E4%B8%89%E6%96%B9%E6%B8%B8%E6%88%8F%E5%B7%A5%E5%85%B7%E4%B8%8B%E8%BD%BD)
+	- [Cocos Creator 插件](#cocos-creator-%E6%8F%92%E4%BB%B6)
 	- [位图字体工具](#%E4%BD%8D%E5%9B%BE%E5%AD%97%E4%BD%93%E5%B7%A5%E5%85%B7)
 	- [粒子编辑工具](#%E7%B2%92%E5%AD%90%E7%BC%96%E8%BE%91%E5%B7%A5%E5%85%B7)
 	- [物理编辑工具](#%E7%89%A9%E7%90%86%E7%BC%96%E8%BE%91%E5%B7%A5%E5%85%B7)
@@ -626,6 +627,25 @@ v2.0beta0 | v3.3rc0	| v3.1 |
 
 ## Cocos 第三方游戏工具下载
 
+### Cocos Creator 插件
+**Cocos Creator 插件可以在 `扩展->扩展商店` 中购买使用，这里只列举了一小部分。**
+
+| 工具名 | 下载地址 | 授权 | 支持平台 | 
+|:---:|:---:|:---:|:---:|
+|行为树可视化编辑插件	|[进入官网](https://github.com/linhaiwei123/cocos-creator-behavior-tree-editor)|开源|Windows/Mac
+|Unpack TextureAtlas	|[进入官网](https://github.com/zilongshanren/unpack-textureatlas)|开源|Windows/Mac
+|Hot-update-tools		|[进入官网](https://github.com/tidys/CocosCreatorPlugins/tree/master/packages/hot-update-tools)|开源|Windows/Mac
+|色相、亮度、饱和度插件		|[进入官网](https://forum.cocos.com/t/creator/42328)|开源|Windows/Mac
+|processOn 可视化状态机编辑插件	|[进入官网](https://forum.cocos.com/t/processon-20170315/44030)|开源|Windows/Mac
+|Quick-open		|[进入官网](https://github.com/pandamicro/quick-open/)|开源|Windows/Mac
+|Quick-preview	|[进入官网](https://github.com/2youyou2/quick-preview)|开源|Windows/Mac
+|CreatorConsole	|[进入官网](https://github.com/jeason1997/CreatorConsole)|开源|Windows/Mac
+|Bugly	|[进入官网](https://github.com/tidys/CocosCreatorPlugins/tree/master/packages/plugin-bugly)|开源|Windows/Mac
+|439WebSdk		|[进入官网](https://github.com/tidys/CocosCreatorPlugins/tree/master/packages/plugin-4399-web-js-sdk)|开源|Windows/Mac
+|excel-killer		|[进入官网](https://github.com/tidys/CocosCreatorPlugins/tree/master/packages/excel-killer)|开源|Windows/Mac
+|res-compress		|[进入官网](https://github.com/tidys/CocosCreatorPlugins/tree/master/packages/res-compress)|开源|Windows/Mac
+|cc-inspector+	|[进入官网](https://github.com/tidys/CocosCreatorPlugins/blob/master/doc/cc-inspector-v2/index.md)|付费|Windows/Mac
+
 ### 位图字体工具
 
 | 工具名 | 下载地址 | 授权 | 支持平台 | 
@@ -724,5 +744,6 @@ v2.0beta0 | v3.3rc0	| v3.1 |
 |MagicaVoxel	|[进入官网](https://ephtracy.github.io/)|免费|Windows/Mac
 |QUBICLE		|[进入官网](http://www.minddesk.com/index.php)|付费|Windows/Mac
 |VoxelShop	|[进入官网](https://blackflux.com/node/11)|免费|Windows/Mac
+
 
 更新时间：2019-03-18 11:17:51
