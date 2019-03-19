@@ -13,6 +13,7 @@
 - [Cocos 引擎下载](#cocos-%E5%BC%95%E6%93%8E%E4%B8%8B%E8%BD%BD)
 	- [Cocos2d-x 引擎下载](#cocos2d-x-%E5%BC%95%E6%93%8E%E4%B8%8B%E8%BD%BD)
 	- [Cocos2d-js 引擎下载](#cocos2d-js-%E5%BC%95%E6%93%8E%E4%B8%8B%E8%BD%BD)
+	- [Cocos Creator 引擎下载](#cocos-creator-%E5%BC%95%E6%93%8E%E4%B8%8B%E8%BD%BD)
 	- [Cocos2d-js Lite 引擎下载](#cocos2d-js-lite-%E5%BC%95%E6%93%8E%E4%B8%8B%E8%BD%BD)
 	- [Quick-cocos2d-x 引擎下载](#quick-cocos2d-x-%E5%BC%95%E6%93%8E%E4%B8%8B%E8%BD%BD)
 - [Cocos 配套工具下载](#cocos-%E9%85%8D%E5%A5%97%E5%B7%A5%E5%85%B7%E4%B8%8B%E8%BD%BD)
@@ -186,6 +187,9 @@
 |cocos2d-js-v3.0-rc0.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-rc0.zip)|
 |cocos2d-js-v3.0-beta.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-beta.zip)|
 |cocos2d-js-v3.0-alpha2-zip-cncdn|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-alpha2-zip-cncdn)|
+
+### Cocos Creator 引擎下载
+* [点击进入](https://github.com/cocos-creator/engine)
 
 ### Cocos2d-js Lite 引擎下载
 
