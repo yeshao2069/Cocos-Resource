@@ -659,6 +659,7 @@ v2.0beta0 | v3.3rc0	| v3.1 |
 |SpriteBuilder	|[进入官网](http://www.spritebuilder.com/)|开源|Mac
 |Cocoshop			|[进入官网](https://github.com/andrew0/cocoshop)|开源|Mac
 |LevelHelper		|[进入官网](http://www.gamedevhelper.com/)|付费|Mac
+|FairyGUI			|[进入官网](http://www.fairygui.com/)|开源|Windows/Mac
 
 ### 纹理图集工具
 
