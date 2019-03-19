@@ -640,6 +640,7 @@ v2.0beta0 | v3.3rc0	| v3.1 |
 |Particle Designer	|[进入官网](http://particledesigner.71squared.com/)|收费|Mac
 |Particle Universe	|[进入官网](http://www.ogre3d.org/tikiwiki/Particle+Universe+plugin)|免费|Windows
 |Particle Editor		|[进入官网](http://onebyonedesign.com/flash/particleeditor/)|免费|Online
+|Particle2dx			|[进入官网](http://www.effecthub.com/particle2dx)|免费|Online
 
 
 ### 物理编辑工具
@@ -667,6 +668,7 @@ v2.0beta0 | v3.3rc0	| v3.1 |
 |TexturePacker			|[进入官网](https://www.codeandweb.com/texturepacker)|付费|Windows/Mac
 |Zwoptex					|[进入官网](https://zwopple.com/zwoptex/)|免费/付费|Mac
 |SpriteUV|[进入官网](http://www.spriteuv.com/)|免费|Windows
+|TinyPNG					|[进入官网](https://tinypng.com/)|免费/付费|Online
 
 ### 瓦片地图编辑工具
 
@@ -710,7 +712,7 @@ v2.0beta0 | v3.3rc0	| v3.1 |
 ### 3D 模型工具
 | 工具名 | 下载地址 | 授权 | 支持平台 | 
 |:---:|:---:|:---:|:---:|
-|FBX-Converter	|[进入官网](http://usa.autodesk.com/adsk/servlet/pc/item?siteID=123112&id=22694909)|免费|Windows/Mac
+|FBX-Converter	|[进入官网](https://www.autodesk.com/developer-network/platform-technologies/fbx-converter-archives)|免费|Windows/Mac
 
 ### 体素编辑工具
 | 工具名 | 下载地址 | 授权 | 支持平台 | 
