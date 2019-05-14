@@ -320,6 +320,8 @@
 
 | 文件名 | 下载链接 |
 |:-------------| :----------------------------------: |
+|CocosCreator_v2.1.1_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.1.1_win)|
+|CocosCreator_v2.1.1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.1.1_mac)|
 |CocosCreator_v2.1.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.1.0_win)|
 |CocosCreator_v2.1.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.1.0_mac)|
 |CocosCreator_v2.0.9_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.0.9_win)|
