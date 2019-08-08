@@ -199,10 +199,11 @@
 
 ### Quick-cocos2d-x 引擎下载
 
-*Quick-cocos2d-x 大致可以分为三个阶段：v2.x， v3.x 以及现在还在维护的 quick 社区版，因为 quick 的下载都没有 cdn，所以下载地址都是在 Github 上。*
+*Quick-cocos2d-x 大致可以分为三个阶段：v2.x， v3.x 以及现在还在维护的 quick 社区版*
 
  文件名| 下载链接 |
 |:-------------| :----------------------------------:|
+|quick-cocos2d-x-community-v3.7.6|[点击下载](https://github.com/u0u0/Quick-Cocos2dx-Community/releases/tag/3.7.6_Release)
 |quick-cocos2d-x-community-v3.7.5|[点击下载](https://github.com/u0u0/Quick-Cocos2dx-Community/releases/tag/3.7.5_Release)
 |quick-cocos2d-x-community-v3.7.4|[点击下载](https://github.com/u0u0/Quick-Cocos2dx-Community/releases/tag/3.7.4_Release)
 |quick-cocos2d-x-community-v3.7.3|[点击下载](https://github.com/u0u0/Quick-Cocos2dx-Community/releases/tag/3.7.3_Release)
