@@ -322,6 +322,8 @@
 
 | 文件名 | 下载链接 |
 |:-------------| :----------------------------------: |
+|CocosCreator_v2.1.3_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.1.3_win)|
+|CocosCreator_v2.1.3_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.1.3_mac)|
 |CocosCreator_v2.1.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.1.2_win)|
 |CocosCreator_v2.1.2_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.1.2_mac)|
 |CocosCreator_v2.1.1_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.1.1_win)|
@@ -755,4 +757,4 @@ v2.0beta0 | v3.3rc0	| v3.1 |
 |VoxelShop	|[进入官网](https://blackflux.com/node/11)|免费|Windows/Mac
 
 
-更新时间：2019-08-08 20:05:22
+更新时间：2019-10-10 14:30:21
