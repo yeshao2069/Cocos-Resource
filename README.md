@@ -25,7 +25,7 @@
 - [Cocos 配套工具下载](#cocos-%E9%85%8D%E5%A5%97%E5%B7%A5%E5%85%B7%E4%B8%8B%E8%BD%BD)
 	- [Cocos 下载](#cocos-%E4%B8%8B%E8%BD%BD)
 	- [Cocos Studio 下载](#cocos-studio-%E4%B8%8B%E8%BD%BD)
-	- [Cocos FrameWork 下载](#cocos-framework-%E4%B8%8B%E8%BD%BD)
+	- [Cocos Framework 下载](#cocos-framework-%E4%B8%8B%E8%BD%BD)
 	- [Cocos Simuator 下载](#cocos-simuator-%E4%B8%8B%E8%BD%BD)
 	- [Cocos IDE 下载](#cocos-ide-%E4%B8%8B%E8%BD%BD)
 - [Cocos 版本关系说明](#cocos-%E7%89%88%E6%9C%AC%E5%85%B3%E7%B3%BB%E8%AF%B4%E6%98%8E)
@@ -505,7 +505,7 @@
 |CocosStudioForMac-2.0.0.0_Alpha.dmg|[点击下载](http://www.cocos2d-x.org/filedown/CocosStudioForMac-2.0.0.0_Alpha.dmg)|
 |CocosStudioForWin-2.0.0.0-Beta0.exe|[点击下载](http://www.cocos2d-x.org/filedown/CocosStudioForWin-2.0.0.0-Beta0.exe)|
 
-### Cocos FrameWork 下载
+### Cocos Framework 下载
 
 | 文件名 | 下载链接 |
 |:-------------| :----------------------------------: |
