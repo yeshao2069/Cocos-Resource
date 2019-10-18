@@ -10,15 +10,19 @@
 	- [Cocos2d-x API 手册](#cocos2d-x-api-%E6%89%8B%E5%86%8C)
 	- [Cocos Creator 官方文档](#cocos-creator-%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3)
 	- [Cocos Creator API 手册](#cocos-creator-api-%E6%89%8B%E5%86%8C)
+    - [Cocos Creator 3D 官方文档](#cocos-creator-3d-%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3)
+	- [Cocos Creator 3D API 手册](#cocos-creator-api-3d-%E6%89%8B%E5%86%8C)
 - [Cocos 引擎下载](#cocos-%E5%BC%95%E6%93%8E%E4%B8%8B%E8%BD%BD)
 	- [Cocos2d-x 引擎下载](#cocos2d-x-%E5%BC%95%E6%93%8E%E4%B8%8B%E8%BD%BD)
 	- [Cocos2d-js 引擎下载](#cocos2d-js-%E5%BC%95%E6%93%8E%E4%B8%8B%E8%BD%BD)
-	- [Cocos Creator 引擎下载](#cocos-creator-%E5%BC%95%E6%93%8E%E4%B8%8B%E8%BD%BD)
 	- [Cocos2d-js Lite 引擎下载](#cocos2d-js-lite-%E5%BC%95%E6%93%8E%E4%B8%8B%E8%BD%BD)
 	- [Quick-cocos2d-x 引擎下载](#quick-cocos2d-x-%E5%BC%95%E6%93%8E%E4%B8%8B%E8%BD%BD)
-- [Cocos 配套工具下载](#cocos-%E9%85%8D%E5%A5%97%E5%B7%A5%E5%85%B7%E4%B8%8B%E8%BD%BD)
-	- [Cocos Creator v1 下载](#cocos-creator-v1-%E4%B8%8B%E8%BD%BD)
+- [Cocos Creator 下载](#cocos-creator-%E4%B8%8B%E8%BD%BD)
+    - [Cocos Creator 引擎下载](#cocos-creator-%E5%BC%95%E6%93%8E%E4%B8%8B%E8%BD%BD)
+    - [Cocos Creator v1 下载](#cocos-creator-v1-%E4%B8%8B%E8%BD%BD)
 	- [Cocos Creator v2 下载](#cocos-creator-v2-%E4%B8%8B%E8%BD%BD)
+    - [Cocos Creator 3D 下载](#cocos-creator-3d-%E4%B8%8B%E8%BD%BD)
+- [Cocos 配套工具下载](#cocos-%E9%85%8D%E5%A5%97%E5%B7%A5%E5%85%B7%E4%B8%8B%E8%BD%BD)
 	- [Cocos 下载](#cocos-%E4%B8%8B%E8%BD%BD)
 	- [Cocos Studio 下载](#cocos-studio-%E4%B8%8B%E8%BD%BD)
 	- [Cocos FrameWork 下载](#cocos-framework-%E4%B8%8B%E8%BD%BD)
@@ -98,6 +102,16 @@
 * 英文版：[点击进入](https://docs.cocos.com/creator/api/en)
 
 * 中文版：[点击进入](https://docs.cocos.com/creator/api/zh)
+
+### Cocos Creator 3D 官方文档
+
+* 中文版：[点击进入](https://docs.cocos.com/creator3d/manual/zh/)
+
+### Cocos Creator 3D API 手册
+
+* 英文版：[点击进入](https://docs.cocos.com/creator3d/api/en/)
+
+* 中文版：[点击进入](https://docs.cocos.com/creator3d/api/zh/)
 
 ## Cocos 引擎下载
 
@@ -190,9 +204,6 @@
 |cocos2d-js-v3.0-beta.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-beta.zip)|
 |cocos2d-js-v3.0-alpha2-zip-cncdn|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-js-v3.0-alpha2-zip-cncdn)|
 
-### Cocos Creator 引擎下载
-* Github 开源：[https://github.com/cocos-creator/engine](https://github.com/cocos-creator/engine)
-
 ### Cocos2d-js Lite 引擎下载
 
 * 在线生成：[http://cocos2d-x.org/filecenter/jsbuilder](http://cocos2d-x.org/filecenter/jsbuilder/)
@@ -231,7 +242,12 @@
 |quick-cocos2d-x-v2.1.4-20130821|[点击下载](https://github.com/chukong/quick-cocos2d-x/releases/tag/stable-2.1.4-20130821)
 |quick-cocos2d-x-v2.1.4-20130808|[点击下载](https://github.com/chukong/quick-cocos2d-x/releases/tag/stable-2.1.4-20130808)
 
-## Cocos 配套工具下载
+## Cocos Creator 下载
+
+**Cocos Creator 采用引擎开源，编辑器不开源的方式发行**
+
+### Cocos Creator 引擎下载
+* Github 开源：[https://github.com/cocos-creator/engine](https://github.com/cocos-creator/engine)
 
 ### Cocos Creator v1 下载
 
@@ -350,6 +366,15 @@
 |CocosCreator_v2.0.1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.0.1_mac)|
 |CocosCreator_v2.0.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.0.0_win)|
 |CocosCreator_v2.0.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.0.0_mac)|
+
+### Cocos Creator 3D 下载
+
+| 文件名 | 下载链接 |
+|:-------------| :----------------------------------: |
+|CocosCreator3D-v1.0.0-win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator3D-v1.0.0-win)|
+|CocosCreator3D-v1.0.0-mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator3D-v1.0.0-mac)|
+
+## Cocos 配套工具下载
 
 ### Cocos 下载
 
@@ -759,4 +784,4 @@ v2.0beta0 | v3.3rc0	| v3.1 |
 |VoxelShop	|[进入官网](https://blackflux.com/node/11)|免费|Windows/Mac
 
 
-更新时间：2019-10-10 14:30:21
+更新时间：2019-10-18 14:38:52
