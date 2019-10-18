@@ -214,6 +214,7 @@
 
  文件名| 下载链接 |
 |:-------------| :----------------------------------:|
+|quick-cocos2d-x-community-v3.7.7|[点击下载](https://github.com/u0u0/Quick-Cocos2dx-Community/releases/tag/3.7.7_Release)
 |quick-cocos2d-x-community-v3.7.6|[点击下载](https://github.com/u0u0/Quick-Cocos2dx-Community/releases/tag/3.7.6_Release)
 |quick-cocos2d-x-community-v3.7.5|[点击下载](https://github.com/u0u0/Quick-Cocos2dx-Community/releases/tag/3.7.5_Release)
 |quick-cocos2d-x-community-v3.7.4|[点击下载](https://github.com/u0u0/Quick-Cocos2dx-Community/releases/tag/3.7.4_Release)
