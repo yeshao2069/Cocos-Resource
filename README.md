@@ -121,6 +121,7 @@
 
 | 文件名 | 下载链接 |
 |:-------------| :----------------------------------: |
+|cocos2d-x-4.0.zip|[点击下载](http://cocos2d-x.org/filedown/cocos2d-x-v4.0)|
 |cocos2d-x-3.17.2.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.17.2)|
 |cocos2d-x-3.17.1.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.17.1)|
 |cocos2d-x-3.17.zip|[点击下载](http://www.cocos2d-x.org/filedown/cocos2d-x-3.17.zip)|
@@ -339,8 +340,14 @@
 
 | 文件名 | 下载链接 |
 |:-------------| :----------------------------------: |
+|CocosCreator_v2.2.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.2.2_win)|
+|CocosCreator_v2.2.2_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.2.2_mac)|
+|CocosCreator_v2.2.1_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.2.1_win)|
+|CocosCreator_v2.2.1_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.2.1_mac)|
 |CocosCreator_v2.2.0_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.2.0_win)|
 |CocosCreator_v2.2.0_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.2.0_mac)|
+|CocosCreator_v2.1.4_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.1.4_win)|
+|CocosCreator_v2.1.4_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.1.4_mac)|
 |CocosCreator_v2.1.3_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.1.3_win)|
 |CocosCreator_v2.1.3_mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.1.3_mac)|
 |CocosCreator_v2.1.2_win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.1.2_win)|
@@ -374,6 +381,10 @@
 
 | 文件名 | 下载链接 |
 |:-------------| :----------------------------------: |
+|CocosCreator3D-v1.0.2-win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator3D-v1.0.2-win)|
+|CocosCreator3D-v1.0.2-mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator3D-v1.0.2-mac)|
+|CocosCreator3D-v1.0.1-win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator3D-v1.0.1-win)|
+|CocosCreator3D-v1.0.1-mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator3D-v1.0.1-mac)|
 |CocosCreator3D-v1.0.0-win|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator3D-v1.0.0-win)|
 |CocosCreator3D-v1.0.0-mac|[点击下载](http://www.cocos2d-x.org/filedown/CocosCreator3D-v1.0.0-mac)|
 
@@ -787,4 +798,4 @@ v2.0beta0 | v3.3rc0	| v3.1 |
 |VoxelShop	|[进入官网](https://blackflux.com/node/11)|免费|Windows/Mac
 
 
-更新时间：2019-10-18 14:38:52
+更新时间：2019-12-27 17:23:10
