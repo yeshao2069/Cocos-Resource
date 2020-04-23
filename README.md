@@ -253,6 +253,8 @@ _Quick-cocos2d-x 大致可以分为三个阶段：v2.x， v3.x 以及现在还�
 
 ### Cocos Creator v2 下载
 
+**从 v2.3.2 及之后的版本 Cocos Creator 引入了 Cocos Dashboard 来管理引擎版本和项目，不再提供单独的下载路径**
+
 | 文件名                   |                                下载链接                                |
 | :----------------------- | :--------------------------------------------------------------------: |
 | CocosCreator_v2.3.1_win  | [点击下载](http://www.cocos2d-x.org/filedown/CocosCreator_v2.3.1_win)  |
@@ -808,4 +810,4 @@ _从 Cocos2d-x v3.7 开始支持使用 Android Studio。_
 |   QUBICLE   | [进入官网](http://www.minddesk.com/index.php) | 付费 | Windows/Mac |
 |  VoxelShop  |   [进入官网](https://blackflux.com/node/11)   | 免费 | Windows/Mac |
 
-更新时间：2020-03-17 15:55:31
+更新时间：2020-04-23 14:19:13
